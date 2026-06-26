@@ -42,3 +42,6 @@ plots <- loc.cl[["Name"]]
 #os <- subset(tree, tree$Strata == "O")
 # list_df <- split(tree, tree$Plot.ID)
 # list2env(list_df, envir = .GlobalEnv)
+
+# WOrking with data from Gis
+ttab <- read.csv("C:/Users/rwetz/Documents/GitHub/Forest_Inventory/TreePlot_All.csv")
