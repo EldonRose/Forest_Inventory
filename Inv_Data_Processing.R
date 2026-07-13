@@ -32,13 +32,11 @@ write.csv(treefreak, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/TreeRF_De
 list_df <- split(treefreak, treefreak$Plot.ID)
 list2env(list_df, envir = .GlobalEnv)
 list2DF(list_df)
+
 for (i in list_df) {
-  print(i)
-  t(i)
-  if (list_df$Name == "BA11") { 
-    break
-    }
-}
+  i <- t(i)
+  }
+
 
   # Saplings
 sa$Sp.total <- rowSums(cbind(sa$X0.1.3..DBH,sa$X3.4.9..DBH), na.rm=TRUE) 
