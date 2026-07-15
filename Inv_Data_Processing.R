@@ -34,6 +34,9 @@ sh <- read.csv("C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Shrubs_All.csv"
 
 treefreak <- read.csv("C:/Users/rwetz/Documents/GitHub/Forest_Inventory/TreeRF_Dec.csv")
 
+# Add coordinates
+
+
 # Turn data into a list by plot
   #list_df <- split(treefreak, treefreak$Plot.ID)
   #list2env(list_df, envir = .GlobalEnv)
