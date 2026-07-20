@@ -34,19 +34,23 @@ sh <- read.csv("C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Shrubs_All.csv"
 
 treefreak <- read.csv("C:/Users/rwetz/Documents/GitHub/Forest_Inventory/TreeRF_Dec.csv")
 
-# Add coordinates
-
-
 # Turn data into a list by plot
-  #list_df <- split(treefreak, treefreak$Plot.ID)
-  #list2env(list_df, envir = .GlobalEnv)
+  list_df <- split(treefreak, treefreak$Plot.ID)
+  list2env(list_df, envir = .GlobalEnv)
   #list2DF(list_df)
-
+  
 # Transpose each df in list and save 
-  # list_df <- lapply(list_df, function(x) {t(x)})
-  # list_df <- lapply(list_df, function(x) {as.data.frame(x)})
-  # trees <- as.data.frame(list_df)
-  # write_csv(trees, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/TreeRF_Cols.csv")
+  list_df <- lapply(list_df, function(x) {t(x)})
+  list_df <- lapply(list_df, function(x) {as.data.frame(x)})
+  trees <- as.data.frame(list_df)
+  write_csv(trees, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/TreeRF_Cols.csv")
+  list2env(list_df, envir = .GlobalEnv)
+  
+  TEST <- BA10
+  colnames(BA10)[colnames(BA10) == '1'] <- 'Sp 1'
+  colnames(BA10)[colnames(BA10) == '2'] <- 'Sp 2'
+  colnames(BA10)[colnames(BA10) == '3'] <- 'Sp 3'
+  stt <- stack(BA10)
 
   # Saplings
 sa$Sp.total <- rowSums(cbind(sa$X0.1.3..DBH,sa$X3.4.9..DBH), na.rm=TRUE) 

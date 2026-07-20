@@ -1,536 +1,536 @@
-"","Plot.ID","Species","n","rel.freq","Class"
-"1","BA10","Chestnut oak",6,"0.75","Canopy"
-"2","BA10","Hickory",1,"0.125","Canopy"
-"3","BA10","Red maple",1,"0.125","Canopy"
-"4","BA11","Chestnut oak",2,"0.2","Canopy"
-"5","BA11","Hickory",2,"0.2","Canopy"
-"6","BA11","Red maple",2,"0.2","Canopy"
-"7","BA11","Red oak",1,"0.1","Canopy"
-"8","BA11","Sweet birch",2,"0.2","Canopy"
-"9","BA11","White pine",1,"0.1","Canopy"
-"10","BA12","Eastern redcedar",1,"0.166666666666667","Canopy"
-"11","BA12","Red maple",2,"0.333333333333333","Canopy"
-"12","BA12","Tulip poplar",3,"0.5","Canopy"
-"13","BA13","Black locust",1,"0.166666666666667","Canopy"
-"14","BA13","Eastern redcedar",1,"0.166666666666667","Canopy"
-"15","BA13","Tulip poplar",1,"0.166666666666667","Canopy"
-"16","BA13","Virginia pine",3,"0.5","Canopy"
-"17","BA13A","Hickory",1,"0.166666666666667","Canopy"
-"18","BA13A","Red maple",1,"0.166666666666667","Canopy"
-"19","BA13A","Tulip poplar",2,"0.333333333333333","Canopy"
-"20","BA13A","Virginia pine",1,"0.166666666666667","Canopy"
-"21","BA13A","White oak",1,"0.166666666666667","Canopy"
-"22","BA2","Eastern hemlock",1,"0.125","Canopy"
-"23","BA2","Red maple",2,"0.25","Canopy"
-"24","BA2","Red oak",1,"0.125","Canopy"
-"25","BA2","Sweet birch",1,"0.125","Canopy"
-"26","BA2","Tulip poplar",1,"0.125","Canopy"
-"27","BA2","White oak",1,"0.125","Canopy"
-"28","BA2","White pine",1,"0.125","Canopy"
-"29","BA3","Hickory",3,"0.5","Canopy"
-"30","BA3","Tulip poplar",1,"0.166666666666667","Canopy"
-"31","BA3","White oak",2,"0.333333333333333","Canopy"
-"32","BA4","Black walnut",1,"0.142857142857143","Canopy"
-"33","BA4","Hickory",5,"0.714285714285714","Canopy"
-"34","BA4","Post oak",1,"0.142857142857143","Canopy"
-"35","BA5","Black oak",1,"0.166666666666667","Canopy"
-"36","BA5","Hickory",2,"0.333333333333333","Canopy"
-"37","BA5","Red maple",2,"0.333333333333333","Canopy"
-"38","BA5","Tulip poplar",1,"0.166666666666667","Canopy"
-"39","BA7","Black oak",1,"0.0909090909090909","Canopy"
-"40","BA7","Blackgum",1,"0.0909090909090909","Canopy"
-"41","BA7","Red oak",1,"0.0909090909090909","Canopy"
-"42","BA7","Tulip poplar",1,"0.0909090909090909","Canopy"
-"43","BA7","White pine",7,"0.636363636363636","Canopy"
-"44","BA8","Black oak",1,"0.125","Canopy"
-"45","BA8","Red maple",2,"0.25","Canopy"
-"46","BA8","Tulip poplar",4,"0.5","Canopy"
-"47","BA8","White pine",1,"0.125","Canopy"
-"48","BH10","Hickory",5,"0.625","Canopy"
-"49","BH10","Red oak",2,"0.25","Canopy"
-"50","BH10","White oak",1,"0.125","Canopy"
-"51","BH11","Hickory",3,"0.75","Canopy"
-"52","BH11","Mulberry",1,"0.25","Canopy"
-"53","BH12","Hickory",2,"0.4","Canopy"
-"54","BH12","Persimmon",1,"0.2","Canopy"
-"55","BH12","White oak",2,"0.4","Canopy"
-"56","BH5","Hickory",2,"0.5","Canopy"
-"57","BH5","Red oak",1,"0.25","Canopy"
-"58","BH5","White oak",1,"0.25","Canopy"
-"59","BH8","Blackgum",1,"0.25","Canopy"
-"60","BH8","Hickory",3,"0.75","Canopy"
-"61","BH9","Ailanthus",1,"0.25","Canopy"
-"62","BH9","Sweet birch",1,"0.25","Canopy"
-"63","BH9","Tulip poplar",2,"0.5","Canopy"
-"64","BN1","Chestnut oak",1,"0.111111111111111","Canopy"
-"65","BN1","Red maple",1,"0.111111111111111","Canopy"
-"66","BN1","Sweet birch",2,"0.222222222222222","Canopy"
-"67","BN1","Tulip poplar",5,"0.555555555555556","Canopy"
-"68","BN10","Black locust",1,"0.333333333333333","Canopy"
-"69","BN10","Red oak",1,"0.333333333333333","Canopy"
-"70","BN10","Tulip poplar",1,"0.333333333333333","Canopy"
-"71","BN11","Blackgum",1,"0.2","Canopy"
-"72","BN11","Chestnut oak",1,"0.2","Canopy"
-"73","BN11","Hickory",1,"0.2","Canopy"
-"74","BN11","Tulip poplar",1,"0.2","Canopy"
-"75","BN11","White pine",1,"0.2","Canopy"
-"76","BN12","Chestnut oak",2,"0.333333333333333","Canopy"
-"77","BN12","Red maple",1,"0.166666666666667","Canopy"
-"78","BN12","White pine",3,"0.5","Canopy"
-"79","BN14","Hickory",1,"0.142857142857143","Canopy"
-"80","BN14","Red maple",1,"0.142857142857143","Canopy"
-"81","BN14","Sweet birch",3,"0.428571428571429","Canopy"
-"82","BN14","Tulip poplar",2,"0.285714285714286","Canopy"
-"83","BN15","Black oak",1,"0.2","Canopy"
-"84","BN15","Hickory",1,"0.2","Canopy"
-"85","BN15","Tulip poplar",3,"0.6","Canopy"
-"86","BN2","Black locust",1,"0.333333333333333","Canopy"
-"87","BN2","Hickory",1,"0.333333333333333","Canopy"
-"88","BN2","White oak",1,"0.333333333333333","Canopy"
-"89","BN3","Hickory",2,"0.666666666666667","Canopy"
-"90","BN3","Red oak",1,"0.333333333333333","Canopy"
-"91","BN4","Black oak",1,"0.166666666666667","Canopy"
-"92","BN4","Hickory",2,"0.333333333333333","Canopy"
-"93","BN4","Red oak",1,"0.166666666666667","Canopy"
-"94","BN4","Tulip poplar",2,"0.333333333333333","Canopy"
-"95","BN5","Black oak",2,"0.2","Canopy"
-"96","BN5","Blackgum",2,"0.2","Canopy"
-"97","BN5","Hickory",1,"0.1","Canopy"
-"98","BN5","Red maple",1,"0.1","Canopy"
-"99","BN5","Red oak",2,"0.2","Canopy"
-"100","BN5","Tulip poplar",2,"0.2","Canopy"
-"101","BN6","Dogwood",1,"0.2","Canopy"
-"102","BN6","Hickory",1,"0.2","Canopy"
-"103","BN6","Sweet birch",1,"0.2","Canopy"
-"104","BN6","Tulip poplar",2,"0.4","Canopy"
-"105","BN8","Blackgum",2,"0.222222222222222","Canopy"
-"106","BN8","Sweet birch",1,"0.111111111111111","Canopy"
-"107","BN8","White pine",6,"0.666666666666667","Canopy"
-"108","BN9","Blackgum",1,"0.333333333333333","Canopy"
-"109","BN9","Chestnut oak",1,"0.333333333333333","Canopy"
-"110","BN9","White oak",1,"0.333333333333333","Canopy"
-"111","BU1","Black oak",2,"0.285714285714286","Canopy"
-"112","BU1","Blackgum",3,"0.428571428571429","Canopy"
-"113","BU1","Red maple",2,"0.285714285714286","Canopy"
-"114","BU10","Chestnut oak",1,"0.166666666666667","Canopy"
-"115","BU10","Hickory",5,"0.833333333333333","Canopy"
-"116","BU3","Hickory",3,"1","Canopy"
-"117","BU4","Ailanthus",1,"0.333333333333333","Canopy"
-"118","BU4","Tulip poplar",2,"0.666666666666667","Canopy"
-"119","BU8","Ailanthus",4,"0.444444444444444","Canopy"
-"120","BU8","Black cherry",2,"0.222222222222222","Canopy"
-"121","BU8","Red maple",1,"0.111111111111111","Canopy"
-"122","BU8","Tulip poplar",2,"0.222222222222222","Canopy"
-"123","BU9","Black locust",2,"0.333333333333333","Canopy"
-"124","BU9","Hickory",1,"0.166666666666667","Canopy"
-"125","BU9","Tulip poplar",3,"0.5","Canopy"
-"126","BW1","Black cherry",1,"0.25","Canopy"
-"127","BW1","Black gum",2,"0.5","Canopy"
-"128","BW1","Black walnut",1,"0.25","Canopy"
-"129","CR12","Ailanthus",3,"0.272727272727273","Canopy"
-"130","CR12","Red maple",7,"0.636363636363636","Canopy"
-"131","CR12","White oak",1,"0.0909090909090909","Canopy"
-"132","CR2","Black cherry",1,"0.1","Canopy"
-"133","CR2","Blackgum",1,"0.1","Canopy"
-"134","CR2","Blackhaw",1,"0.1","Canopy"
-"135","CR2","Hickory",3,"0.3","Canopy"
-"136","CR2","Red maple",1,"0.1","Canopy"
-"137","CR2","Red oak",2,"0.2","Canopy"
-"138","CR2","Sassafras",1,"0.1","Canopy"
-"139","CR3","Black locust",1,"0.2","Canopy"
-"140","CR3","Hickory",3,"0.6","Canopy"
-"141","CR3","Persimmon",1,"0.2","Canopy"
-"142","CR4","Hickory",2,"0.333333333333333","Canopy"
-"143","CR4","Red maple",2,"0.333333333333333","Canopy"
-"144","CR4","Tulip poplar",2,"0.333333333333333","Canopy"
-"145","CR5","Walnut",2,"1","Canopy"
-"146","CR6","Blackgum",2,"0.333333333333333","Canopy"
-"147","CR6","Red maple",2,"0.333333333333333","Canopy"
-"148","CR6","Tulip poplar",2,"0.333333333333333","Canopy"
-"149","FL1","Ailanthus",3,"0.5","Canopy"
-"150","FL1","Black cherry",1,"0.166666666666667","Canopy"
-"151","FL1","Hackberry",1,"0.166666666666667","Canopy"
-"152","FL1","Mulberry",1,"0.166666666666667","Canopy"
-"153","FL10","Ailanthus",1,"0.125","Canopy"
-"154","FL10","Black oak",1,"0.125","Canopy"
-"155","FL10","Hickory",2,"0.25","Canopy"
-"156","FL10","Red maple",1,"0.125","Canopy"
-"157","FL10","Red oak",1,"0.125","Canopy"
-"158","FL10","Sassafras",1,"0.125","Canopy"
-"159","FL10","White oak",1,"0.125","Canopy"
-"160","FL11","Black oak",1,"0.166666666666667","Canopy"
-"161","FL11","Blackgum",1,"0.166666666666667","Canopy"
-"162","FL11","Tulip poplar",1,"0.166666666666667","Canopy"
-"163","FL11","White oak",3,"0.5","Canopy"
-"164","FL2","Black cherry",2,"0.5","Canopy"
-"165","FL2","Hickory",1,"0.25","Canopy"
-"166","FL2","Red maple",1,"0.25","Canopy"
-"167","FL3","Boxelder",1,"0.0769230769230769","Canopy"
-"168","FL3","Hickory",2,"0.153846153846154","Canopy"
-"169","FL3","Red maple",6,"0.461538461538462","Canopy"
-"170","FL3","Sweet birch",1,"0.0769230769230769","Canopy"
-"171","FL3","Tulip poplar",3,"0.230769230769231","Canopy"
-"172","FL4","Ailanthus",4,"0.4","Canopy"
-"173","FL4","Black cherry",2,"0.2","Canopy"
-"174","FL4","Hickory",3,"0.3","Canopy"
-"175","FL4","Red maple",1,"0.1","Canopy"
-"176","FL5","Dogwood",1,"0.25","Canopy"
-"177","FL5","Hickory",1,"0.25","Canopy"
-"178","FL5","Tulip poplar",1,"0.25","Canopy"
-"179","FL5","Unknown",1,"0.25","Canopy"
-"180","FL8","Black cherry",1,"0.25","Canopy"
-"181","FL8","Dogwood",1,"0.25","Canopy"
-"182","FL8","Sassafras",1,"0.25","Canopy"
-"183","FL8","Tulip poplar",1,"0.25","Canopy"
-"184","FL9","Black cherry",1,"0.142857142857143","Canopy"
-"185","FL9","Blackgum",2,"0.285714285714286","Canopy"
-"186","FL9","Red maple",2,"0.285714285714286","Canopy"
-"187","FL9","Tulip poplar",2,"0.285714285714286","Canopy"
-"188","FM1","Chestnut oak",2,"0.2","Canopy"
-"189","FM1","White pine",8,"0.8","Canopy"
-"190","FM10","Chestnut oak",2,"0.5","Canopy"
-"191","FM10","Red maple",1,"0.25","Canopy"
-"192","FM10","White oak",1,"0.25","Canopy"
-"193","FM2","Blackgum",2,"0.5","Canopy"
-"194","FM2","Hickory",1,"0.25","Canopy"
-"195","FM2","Tulip poplar",1,"0.25","Canopy"
-"196","FM3","Red maple",7,"0.466666666666667","Canopy"
-"197","FM3","Tulip poplar",8,"0.533333333333333","Canopy"
-"198","FM4","Chestnut oak",2,"0.25","Canopy"
-"199","FM4","Hickory",2,"0.25","Canopy"
-"200","FM4","Red maple",2,"0.25","Canopy"
-"201","FM4","Tulip poplar",1,"0.125","Canopy"
-"202","FM4","White pine",1,"0.125","Canopy"
-"203","FM5","Hickory",1,"0.5","Canopy"
-"204","FM5","Hornbeam",1,"0.5","Canopy"
-"205","FM6","Black oak",2,"0.4","Canopy"
-"206","FM6","Chestnut oak",1,"0.2","Canopy"
-"207","FM6","White pine",2,"0.4","Canopy"
-"208","FM7","Chestnut oak",2,"0.666666666666667","Canopy"
-"209","FM7","Sweet birch",1,"0.333333333333333","Canopy"
-"210","FM9","Ash",1,"0.037037037037037","Canopy"
-"211","FM9","Blackgum",1,"0.037037037037037","Canopy"
-"212","FM9","Eastern hemlock",1,"0.037037037037037","Canopy"
-"213","FM9","Hickory",1,"0.037037037037037","Canopy"
-"214","FM9","Hornbeam",2,"0.0740740740740741","Canopy"
-"215","FM9","Red maple",1,"0.037037037037037","Canopy"
-"216","FM9","Sweet birch",11,"0.407407407407407","Canopy"
-"217","FM9","Witch hazel",9,"0.333333333333333","Canopy"
-"218","GS3","Hickory",2,"0.285714285714286","Canopy"
-"219","GS3","Red maple",2,"0.285714285714286","Canopy"
-"220","GS3","Red oak",2,"0.285714285714286","Canopy"
-"221","GS3","Tulip poplar",1,"0.142857142857143","Canopy"
-"222","GS4","Red maple",1,"0.142857142857143","Canopy"
-"223","GS4","Tulip poplar",5,"0.714285714285714","Canopy"
-"224","GS4","White pine",1,"0.142857142857143","Canopy"
-"225","GS5","Blackgum",3,"0.333333333333333","Canopy"
-"226","GS5","Chestnut oak",3,"0.333333333333333","Canopy"
-"227","GS5","Red maple",1,"0.111111111111111","Canopy"
-"228","GS5","Red oak",1,"0.111111111111111","Canopy"
-"229","GS5","Tulip poplar",1,"0.111111111111111","Canopy"
-"230","GS6","Beech",1,"0.1","Canopy"
-"231","GS6","Blackgum",2,"0.2","Canopy"
-"232","GS6","Chestnut oak",1,"0.1","Canopy"
-"233","GS6","Hickory",1,"0.1","Canopy"
-"234","GS6","Sweet birch",4,"0.4","Canopy"
-"235","GS6","Tulip poplar",1,"0.1","Canopy"
-"236","GS8","Red maple",3,"0.5","Canopy"
-"237","GS8","Red oak",1,"0.166666666666667","Canopy"
-"238","GS8","Tulip poplar",2,"0.333333333333333","Canopy"
-"239","HW1","Black oak",2,"0.4","Canopy"
-"240","HW1","Tulip poplar",3,"0.6","Canopy"
-"241","HW10","Hickory",1,"0.166666666666667","Canopy"
-"242","HW10","Sweet birch",4,"0.666666666666667","Canopy"
-"243","HW10","Tulip poplar",1,"0.166666666666667","Canopy"
-"244","HW11","Ailanthus",1,"0.142857142857143","Canopy"
-"245","HW11","Tulip poplar",4,"0.571428571428571","Canopy"
-"246","HW11","White oak",2,"0.285714285714286","Canopy"
-"247","HW12","Hickory",3,"0.375","Canopy"
-"248","HW12","Tulip poplar",3,"0.375","Canopy"
-"249","HW12","Virginia pine",1,"0.125","Canopy"
-"250","HW12","White oak",1,"0.125","Canopy"
-"251","HW3","Black locust",1,"0.25","Canopy"
-"252","HW3","Hickory",1,"0.25","Canopy"
-"253","HW3","Red maple",1,"0.25","Canopy"
-"254","HW3","Tulip poplar",1,"0.25","Canopy"
-"255","HW4","Hickory",1,"0.166666666666667","Canopy"
-"256","HW4","Red maple",1,"0.166666666666667","Canopy"
-"257","HW4","Tulip poplar",1,"0.166666666666667","Canopy"
-"258","HW4","Virginia pine",1,"0.166666666666667","Canopy"
-"259","HW4","White oak",2,"0.333333333333333","Canopy"
-"260","HW7","Blackgum",1,"0.166666666666667","Canopy"
-"261","HW7","Red maple",1,"0.166666666666667","Canopy"
-"262","HW7","Sweet birch",1,"0.166666666666667","Canopy"
-"263","HW7","Tulip poplar",1,"0.166666666666667","Canopy"
-"264","HW7","White oak",1,"0.166666666666667","Canopy"
-"265","HW7","White pine",1,"0.166666666666667","Canopy"
-"266","HW9","Sweet birch",2,"0.25","Canopy"
-"267","HW9","Tulip poplar",5,"0.625","Canopy"
-"268","HW9","White oak",1,"0.125","Canopy"
-"269","JM10","Tulip poplar",7,"1","Canopy"
-"270","JM11","Tulip poplar",6,"0.75","Canopy"
-"271","JM11","White pine",2,"0.25","Canopy"
-"272","JM12","Ailanthus",2,"0.5","Canopy"
-"273","JM12","Sassafras",1,"0.25","Canopy"
-"274","JM12","Tulip poplar",1,"0.25","Canopy"
-"275","JM13","Tulip poplar",4,"1","Canopy"
-"276","JM14","Blackgum",1,"0.142857142857143","Canopy"
-"277","JM14","Hickory",6,"0.857142857142857","Canopy"
-"278","JM16","Green ash",1,"0.142857142857143","Canopy"
-"279","JM16","Hickory",1,"0.142857142857143","Canopy"
-"280","JM16","Redbud",2,"0.285714285714286","Canopy"
-"281","JM16","Tulip poplar",2,"0.285714285714286","Canopy"
-"282","JM16","Walnut",1,"0.142857142857143","Canopy"
-"283","JM17","Hickory",3,"0.428571428571429","Canopy"
-"284","JM17","Sweet birch",2,"0.285714285714286","Canopy"
-"285","JM17","Tulip poplar",2,"0.285714285714286","Canopy"
-"286","JM2","Black cherry",1,"0.142857142857143","Canopy"
-"287","JM2","Tulip poplar",6,"0.857142857142857","Canopy"
-"288","JM3","Hickory",6,"0.461538461538462","Canopy"
-"289","JM3","Red maple",1,"0.0769230769230769","Canopy"
-"290","JM3","Red oak",1,"0.0769230769230769","Canopy"
-"291","JM3","Striped maple",4,"0.307692307692308","Canopy"
-"292","JM3","Tulip poplar",1,"0.0769230769230769","Canopy"
-"293","JM4","Blackgum",1,"0.142857142857143","Canopy"
-"294","JM4","Chestnut oak",4,"0.571428571428571","Canopy"
-"295","JM4","Sweet birch",1,"0.142857142857143","Canopy"
-"296","JM4","Tulip poplar",1,"0.142857142857143","Canopy"
-"297","JM6","Black gum",1,"0.2","Canopy"
-"298","JM6","Tulip poplar",4,"0.8","Canopy"
-"299","JM8","Blackgum",3,"0.3","Canopy"
-"300","JM8","Elm",3,"0.3","Canopy"
-"301","JM8","Hickory",1,"0.1","Canopy"
-"302","JM8","Northern red oak",1,"0.1","Canopy"
-"303","JM8","Walnut",1,"0.1","Canopy"
-"304","JM8","White oak",1,"0.1","Canopy"
-"305","JM9","Hickory",3,"0.3","Canopy"
-"306","JM9","Sweet birch",1,"0.1","Canopy"
-"307","JM9","Tulip poplar",6,"0.6","Canopy"
-"308","PT3","Blackgum",3,"0.75","Canopy"
-"309","PT3","Boxelder",1,"0.25","Canopy"
-"310","PT4","Ailanthus",1,"0.166666666666667","Canopy"
-"311","PT4","Hickory",2,"0.333333333333333","Canopy"
-"312","PT4","Mimosa",1,"0.166666666666667","Canopy"
-"313","PT4","Tulip poplar",1,"0.166666666666667","Canopy"
-"314","PT4","Unknown",1,"0.166666666666667","Canopy"
-"315","PT6","Ailanthus",2,"0.5","Canopy"
-"316","PT6","Black cherry",1,"0.25","Canopy"
-"317","PT6","Tulip poplar",1,"0.25","Canopy"
-"318","PT9","Black cherry",1,"0.142857142857143","Canopy"
-"319","PT9","Black oak",3,"0.428571428571429","Canopy"
-"320","PT9","Dogwood",1,"0.142857142857143","Canopy"
-"321","PT9","Tulip poplar",2,"0.285714285714286","Canopy"
-"322","QW10","Ailanthus",1,"0.125","Canopy"
-"323","QW10","Blackgum",2,"0.25","Canopy"
-"324","QW10","Post oak",3,"0.375","Canopy"
-"325","QW10","Tulip poplar",1,"0.125","Canopy"
-"326","QW10","Virginia pine",1,"0.125","Canopy"
-"327","QW14","White oak",4,"1","Canopy"
-"328","QW3","Hickory",2,"1","Canopy"
-"329","QW7","Ailanthus",1,"0.142857142857143","Canopy"
-"330","QW7","Sweet birch",1,"0.142857142857143","Canopy"
-"331","QW7","Tulip poplar",5,"0.714285714285714","Canopy"
-"332","QW8","Ailanthus",6,"0.857142857142857","Canopy"
-"333","QW8","Black walnut",1,"0.142857142857143","Canopy"
-"334","QW9","Black cherry",1,"0.166666666666667","Canopy"
-"335","QW9","Eastern redcedar",1,"0.166666666666667","Canopy"
-"336","QW9","Hawthorn",1,"0.166666666666667","Canopy"
-"337","QW9","Post oak",2,"0.333333333333333","Canopy"
-"338","QW9","Red maple",1,"0.166666666666667","Canopy"
-"339","RK1","Black cherry",1,"1","Canopy"
-"340","RK10","Ailanthus",2,"0.4","Canopy"
-"341","RK10","Red maple",2,"0.4","Canopy"
-"342","RK10","Tulip poplar",1,"0.2","Canopy"
-"343","RK11","Chestnut oak",1,"0.166666666666667","Canopy"
-"344","RK11","Hickory",1,"0.166666666666667","Canopy"
-"345","RK11","Tulip poplar",1,"0.166666666666667","Canopy"
-"346","RK11","White oak",3,"0.5","Canopy"
-"347","RK12","Black cherry",1,"0.5","Canopy"
-"348","RK12","Eastern redcedar",1,"0.5","Canopy"
-"349","RK2","Blackgum",1,"0.25","Canopy"
-"350","RK2","Tulip poplar",2,"0.5","Canopy"
-"351","RK2","White oak",1,"0.25","Canopy"
-"352","RK3","Ailanthus",1,"0.333333333333333","Canopy"
-"353","RK3","Walnut",2,"0.666666666666667","Canopy"
-"354","RK4","Hickory",4,"0.444444444444444","Canopy"
-"355","RK4","Red maple",2,"0.222222222222222","Canopy"
-"356","RK4","Shagwood hickory",2,"0.222222222222222","Canopy"
-"357","RK4","Tulip poplar",1,"0.111111111111111","Canopy"
-"358","RK5","Black gum",2,"0.25","Canopy"
-"359","RK5","Black walnut",1,"0.125","Canopy"
-"360","RK5","Northern red oak",1,"0.125","Canopy"
-"361","RK5","Tulip poplar",2,"0.25","Canopy"
-"362","RK5","White oak",2,"0.25","Canopy"
-"363","RK6","Black oak",3,"0.5","Canopy"
-"364","RK6","Red maple",2,"0.333333333333333","Canopy"
-"365","RK6","Virginia pine",1,"0.166666666666667","Canopy"
-"366","RK9","Red maple",1,"0.25","Canopy"
-"367","RK9","Tulip poplar",3,"0.75","Canopy"
-"368","RMH10","  ",1,"0.2","Canopy"
-"369","RMH10","Hickory",3,"0.6","Canopy"
-"370","RMH10","Tulip poplar",1,"0.2","Canopy"
-"371","RMH2","Black oak",1,"0.142857142857143","Canopy"
-"372","RMH2","Hickory",1,"0.142857142857143","Canopy"
-"373","RMH2","Princess tree",1,"0.142857142857143","Canopy"
-"374","RMH2","Red maple",2,"0.285714285714286","Canopy"
-"375","RMH2","Sassafrass",1,"0.142857142857143","Canopy"
-"376","RMH2","Tulip poplar",1,"0.142857142857143","Canopy"
-"377","RMH4","Chestnut oak",1,"0.142857142857143","Canopy"
-"378","RMH4","Hickory",4,"0.571428571428571","Canopy"
-"379","RMH4","Unknown",1,"0.142857142857143","Canopy"
-"380","RMH4","White oak",1,"0.142857142857143","Canopy"
-"381","RMH8","Black oak",1,"0.2","Canopy"
-"382","RMH8","Hickory",2,"0.4","Canopy"
-"383","RMH8","Red maple",1,"0.2","Canopy"
-"384","RMH8","Tulip poplar",1,"0.2","Canopy"
-"385","RMH9","Red maple",2,"0.4","Canopy"
-"386","RMH9","Tulip poplar",3,"0.6","Canopy"
-"387","RMM1","Hackberry",1,"0.333333333333333","Canopy"
-"388","RMM1","Sycamore",1,"0.333333333333333","Canopy"
-"389","RMM1","Tulip poplar",1,"0.333333333333333","Canopy"
-"390","RMM10","Black oak",1,"0.2","Canopy"
-"391","RMM10","Red maple",3,"0.6","Canopy"
-"392","RMM10","White pine",1,"0.2","Canopy"
-"393","RMM3","Black oak",1,"0.2","Canopy"
-"394","RMM3","Chestnut oak",1,"0.2","Canopy"
-"395","RMM3","Hickory",2,"0.4","Canopy"
-"396","RMM3","White pine",1,"0.2","Canopy"
-"397","RMM6","Black oak",1,"0.2","Canopy"
-"398","RMM6","Chestnut oak",4,"0.8","Canopy"
-"399","RMM8","Black oak",1,"0.5","Canopy"
-"400","RMM8","Sweet birch",1,"0.5","Canopy"
-"401","SL1","Ailanthus",1,"0.2","Canopy"
-"402","SL1","Tulip poplar",4,"0.8","Canopy"
-"403","SL12","Black oak",1,"0.166666666666667","Canopy"
-"404","SL12","Red maple",1,"0.166666666666667","Canopy"
-"405","SL12","Sweet birch",3,"0.5","Canopy"
-"406","SL12","Tulip poplar",1,"0.166666666666667","Canopy"
-"407","SL2","Chestnut oak",1,"0.2","Canopy"
-"408","SL2","Red oak",1,"0.2","Canopy"
-"409","SL2","Sweet birch",3,"0.6","Canopy"
-"410","SL3","Blackgum",3,"0.375","Canopy"
-"411","SL3","Hickory",1,"0.125","Canopy"
-"412","SL3","Red maple",1,"0.125","Canopy"
-"413","SL3","Tulip poplar",1,"0.125","Canopy"
-"414","SL3","White oak",2,"0.25","Canopy"
-"415","SL4","Black oak",2,"0.2","Canopy"
-"416","SL4","Blackgum",1,"0.1","Canopy"
-"417","SL4","Chestnut oak",2,"0.2","Canopy"
-"418","SL4","Sweet birch",4,"0.4","Canopy"
-"419","SL4","Tulip poplar",1,"0.1","Canopy"
-"420","SL5","Blackgum",1,"0.166666666666667","Canopy"
-"421","SL5","Chestnut oak",1,"0.166666666666667","Canopy"
-"422","SL5","Red oak",1,"0.166666666666667","Canopy"
-"423","SL5","Sweet birch",2,"0.333333333333333","Canopy"
-"424","SL5","Tulip poplar",1,"0.166666666666667","Canopy"
-"425","SL6","Red maple",3,"0.428571428571429","Canopy"
-"426","SL6","Tulip poplar",4,"0.571428571428571","Canopy"
-"427","SL8","Maple spp.",1,"0.25","Canopy"
-"428","SL8","Tulip poplar",3,"0.75","Canopy"
-"429","SL9","Black walnut",2,"0.666666666666667","Canopy"
-"430","SL9","Tulip poplar",1,"0.333333333333333","Canopy"
-"431","SM13","Red maple",1,"0.2","Canopy"
-"432","SM13","Tulip poplar",4,"0.8","Canopy"
-"433","SM14","Black oak",1,"0.2","Canopy"
-"434","SM14","Chestnut oak",1,"0.2","Canopy"
-"435","SM14","Hickory",1,"0.2","Canopy"
-"436","SM14","Red oak",2,"0.4","Canopy"
-"437","SM15","Black oak",1,"0.333333333333333","Canopy"
-"438","SM15","Tulip poplar",2,"0.666666666666667","Canopy"
-"439","SM2","Blackgum",1,"0.5","Canopy"
-"440","SM2","Red maple",1,"0.5","Canopy"
-"441","SM5","Blackgum",2,"0.285714285714286","Canopy"
-"442","SM5","Red maple",2,"0.285714285714286","Canopy"
-"443","SM5","Tulip poplar",3,"0.428571428571429","Canopy"
-"444","SM6","Red maple",5,"0.714285714285714","Canopy"
-"445","SM6","Striped maple",1,"0.142857142857143","Canopy"
-"446","SM6","Tulip poplar",1,"0.142857142857143","Canopy"
-"447","SM7","Ailanthus",1,"0.166666666666667","Canopy"
-"448","SM7","Tulip poplar",3,"0.5","Canopy"
-"449","SM7","Walnut",2,"0.333333333333333","Canopy"
-"450","SM9","Red maple",1,"0.142857142857143","Canopy"
-"451","SM9","Red oak",1,"0.142857142857143","Canopy"
-"452","SM9","Striped maple",1,"0.142857142857143","Canopy"
-"453","SM9","Sweet birch",3,"0.428571428571429","Canopy"
-"454","SM9","Tulip poplar",1,"0.142857142857143","Canopy"
-"455","SMH1","Post oak",1,"0.5","Canopy"
-"456","SMH1","White oak",1,"0.5","Canopy"
-"457","SMH2","Black oak",1,"0.0909090909090909","Canopy"
-"458","SMH2","Blackgum",4,"0.363636363636364","Canopy"
-"459","SMH2","Red maple",1,"0.0909090909090909","Canopy"
-"460","SMH2","Red oak",3,"0.272727272727273","Canopy"
-"461","SMH2","White oak",2,"0.181818181818182","Canopy"
-"462","SMH4","Hickory",2,"0.222222222222222","Canopy"
-"463","SMH4","White oak",5,"0.555555555555556","Canopy"
-"464","SMH4","White pine",2,"0.222222222222222","Canopy"
-"465","SMH6","Blackgum",2,"0.333333333333333","Canopy"
-"466","SMH6","Hickory",3,"0.5","Canopy"
-"467","SMH6","Red maple",1,"0.166666666666667","Canopy"
-"468","SMH7","Hickory",2,"0.5","Canopy"
-"469","SMH7","Tulip poplar",2,"0.5","Canopy"
-"470","SMH8","Hickory",1,"0.2","Canopy"
-"471","SMH8","Red maple",2,"0.4","Canopy"
-"472","SMH8","Tulip poplar",1,"0.2","Canopy"
-"473","SMH8","White oak",1,"0.2","Canopy"
-"474","SMH9","Red maple",1,"0.0909090909090909","Canopy"
-"475","SMH9","Red oak",1,"0.0909090909090909","Canopy"
-"476","SMH9","Sweet birch",1,"0.0909090909090909","Canopy"
-"477","SMH9","Tulip poplar",1,"0.0909090909090909","Canopy"
-"478","SMH9","White oak",2,"0.181818181818182","Canopy"
-"479","SMH9","White pine",5,"0.454545454545455","Canopy"
-"480","SMHA","Blackgum",2,"0.25","Canopy"
-"481","SMHA","Hickory",2,"0.25","Canopy"
-"482","SMHA","Red maple",2,"0.25","Canopy"
-"483","SMHA","White oak",2,"0.25","Canopy"
-"484","SMS2","Tulip poplar",4,"1","Canopy"
-"485","SMS3","Blackgum",1,"0.5","Canopy"
-"486","SMS3","Sweet birch",1,"0.5","Canopy"
-"487","SMS4","Ailanthus",1,"0.142857142857143","Canopy"
-"488","SMS4","Eastern hemlock",1,"0.142857142857143","Canopy"
-"489","SMS4","Sweet birch",1,"0.142857142857143","Canopy"
-"490","SMS4","Tulip poplar",4,"0.571428571428571","Canopy"
-"491","SMS6","Ash",2,"0.222222222222222","Canopy"
-"492","SMS6","Hickory",1,"0.111111111111111","Canopy"
-"493","SMS6","Sweet birch",3,"0.333333333333333","Canopy"
-"494","SMS6","Tulip poplar",2,"0.222222222222222","Canopy"
-"495","SMS6","White oak",1,"0.111111111111111","Canopy"
-"496","SMS7","Eastern hemlock",1,"0.142857142857143","Canopy"
-"497","SMS7","Sweet birch",4,"0.571428571428571","Canopy"
-"498","SMS7","Tulip poplar",1,"0.142857142857143","Canopy"
-"499","SMS7","White pine",1,"0.142857142857143","Canopy"
-"500","WM1","Ailanthus",2,"0.181818181818182","Canopy"
-"501","WM1","Black cherry",1,"0.0909090909090909","Canopy"
-"502","WM1","Black walnut",1,"0.0909090909090909","Canopy"
-"503","WM1","Red maple",3,"0.272727272727273","Canopy"
-"504","WM1","Tulip poplar",4,"0.363636363636364","Canopy"
-"505","WM10","Blackgum",3,"0.6","Canopy"
-"506","WM10","Red maple",1,"0.2","Canopy"
-"507","WM10","Tulip poplar",1,"0.2","Canopy"
-"508","WM12","Ailanthus",2,"0.333333333333333","Canopy"
-"509","WM12","Black oak",1,"0.166666666666667","Canopy"
-"510","WM12","Mulberry",1,"0.166666666666667","Canopy"
-"511","WM12","Red maple",1,"0.166666666666667","Canopy"
-"512","WM12","Red oak",1,"0.166666666666667","Canopy"
-"513","WM13","Red maple",1,"0.166666666666667","Canopy"
-"514","WM13","Tulip poplar",1,"0.166666666666667","Canopy"
-"515","WM13","Virginia pine",3,"0.5","Canopy"
-"516","WM13","White pine",1,"0.166666666666667","Canopy"
-"517","WM15","Hickory",2,"0.4","Canopy"
-"518","WM15","Tulip poplar",2,"0.4","Canopy"
-"519","WM15","White oak",1,"0.2","Canopy"
-"520","WM3","Ailanthus",3,"0.3","Canopy"
-"521","WM3","Tulip poplar",7,"0.7","Canopy"
-"522","WM4","Blackgum",1,"0.25","Canopy"
-"523","WM4","Tulip poplar",3,"0.75","Canopy"
-"524","WM5","Black walnut",1,"0.333333333333333","Canopy"
-"525","WM5","Red maple",1,"0.333333333333333","Canopy"
-"526","WM5","Tulip poplar",1,"0.333333333333333","Canopy"
-"527","WM6","Blackgum",1,"0.2","Canopy"
-"528","WM6","Hickory",3,"0.6","Canopy"
-"529","WM6","Red oak",1,"0.2","Canopy"
-"530","WM8","Chestnut oak",1,"0.166666666666667","Canopy"
-"531","WM8","Cucumber tree",2,"0.333333333333333","Canopy"
-"532","WM8","Hickory",1,"0.166666666666667","Canopy"
-"533","WM8","Tulip poplar",2,"0.333333333333333","Canopy"
-"534","WM9","Blackgum",1,"0.25","Canopy"
-"535","WM9","Chestnut oak",3,"0.75","Canopy"
+,Plot.ID,Species,n,rel.freq,Class,X,Y
+1,BA10,Chestnut oak,6,0.75,Canopy,-78.178317,38.555405
+2,BA10,Hickory,1,0.125,Canopy,-78.178317,38.555405
+3,BA10,Red maple,1,0.125,Canopy,-78.178317,38.555405
+4,BA11,Chestnut oak,2,0.2,Canopy,-78.176861,38.5542
+5,BA11,Hickory,2,0.2,Canopy,-78.176861,38.5542
+6,BA11,Red maple,2,0.2,Canopy,-78.176861,38.5542
+7,BA11,Red oak,1,0.1,Canopy,-78.176861,38.5542
+8,BA11,Sweet birch,2,0.2,Canopy,-78.176861,38.5542
+9,BA11,White pine,1,0.1,Canopy,-78.176861,38.5542
+10,BA12,Eastern redcedar,1,0.166666667,Canopy,-78.178147,38.551184
+11,BA12,Red maple,2,0.333333333,Canopy,-78.178147,38.551184
+12,BA12,Tulip poplar,3,0.5,Canopy,-78.178147,38.551184
+13,BA13,Black locust,1,0.166666667,Canopy,-78.17906,38.54947
+14,BA13,Eastern redcedar,1,0.166666667,Canopy,-78.17906,38.54947
+15,BA13,Tulip poplar,1,0.166666667,Canopy,-78.17906,38.54947
+16,BA13,Virginia pine,3,0.5,Canopy,-78.17906,38.54947
+17,BA13A,Hickory,1,0.166666667,Canopy,-78.179579,38.550865
+18,BA13A,Red maple,1,0.166666667,Canopy,-78.179579,38.550865
+19,BA13A,Tulip poplar,2,0.333333333,Canopy,-78.179579,38.550865
+20,BA13A,Virginia pine,1,0.166666667,Canopy,-78.179579,38.550865
+21,BA13A,White oak,1,0.166666667,Canopy,-78.179579,38.550865
+22,BA2,Eastern hemlock,1,0.125,Canopy,-78.186778,38.549867
+23,BA2,Red maple,2,0.25,Canopy,-78.186778,38.549867
+24,BA2,Red oak,1,0.125,Canopy,-78.186778,38.549867
+25,BA2,Sweet birch,1,0.125,Canopy,-78.186778,38.549867
+26,BA2,Tulip poplar,1,0.125,Canopy,-78.186778,38.549867
+27,BA2,White oak,1,0.125,Canopy,-78.186778,38.549867
+28,BA2,White pine,1,0.125,Canopy,-78.186778,38.549867
+29,BA3,Hickory,3,0.5,Canopy,-78.189005,38.548276
+30,BA3,Tulip poplar,1,0.166666667,Canopy,-78.189005,38.548276
+31,BA3,White oak,2,0.333333333,Canopy,-78.189005,38.548276
+32,BA4,Black walnut,1,0.142857143,Canopy,-78.185226,38.552771
+33,BA4,Hickory,5,0.714285714,Canopy,-78.185226,38.552771
+34,BA4,Post oak,1,0.142857143,Canopy,-78.185226,38.552771
+35,BA5,Black oak,1,0.166666667,Canopy,-78.18802,38.5543
+36,BA5,Hickory,2,0.333333333,Canopy,-78.18802,38.5543
+37,BA5,Red maple,2,0.333333333,Canopy,-78.18802,38.5543
+38,BA5,Tulip poplar,1,0.166666667,Canopy,-78.18802,38.5543
+39,BA7,Black oak,1,0.090909091,Canopy,-78.18992,38.558188
+40,BA7,Blackgum,1,0.090909091,Canopy,-78.18992,38.558188
+41,BA7,Red oak,1,0.090909091,Canopy,-78.18992,38.558188
+42,BA7,Tulip poplar,1,0.090909091,Canopy,-78.18992,38.558188
+43,BA7,White pine,7,0.636363636,Canopy,-78.18992,38.558188
+44,BA8,Black oak,1,0.125,Canopy,-78.190431,38.560391
+45,BA8,Red maple,2,0.25,Canopy,-78.190431,38.560391
+46,BA8,Tulip poplar,4,0.5,Canopy,-78.190431,38.560391
+47,BA8,White pine,1,0.125,Canopy,-78.190431,38.560391
+48,BH10,Hickory,5,0.625,Canopy,-78.18865501,38.58322526
+49,BH10,Red oak,2,0.25,Canopy,-78.18865501,38.58322526
+50,BH10,White oak,1,0.125,Canopy,-78.18865501,38.58322526
+51,BH11,Hickory,3,0.75,Canopy,-78.18845702,38.5846322
+52,BH11,Mulberry,1,0.25,Canopy,-78.18845702,38.5846322
+53,BH12,Hickory,2,0.4,Canopy,-78.19000499,38.5841209
+54,BH12,Persimmon,1,0.2,Canopy,-78.19000499,38.5841209
+55,BH12,White oak,2,0.4,Canopy,-78.19000499,38.5841209
+56,BH5,Hickory,2,0.5,Canopy,-78.18864891,38.57920457
+57,BH5,Red oak,1,0.25,Canopy,-78.18864891,38.57920457
+58,BH5,White oak,1,0.25,Canopy,-78.18864891,38.57920457
+59,BH8,Blackgum,1,0.25,Canopy,-78.18821994,38.58057698
+60,BH8,Hickory,3,0.75,Canopy,-78.18821994,38.58057698
+61,BH9,Ailanthus,1,0.25,Canopy,-78.1879161,38.58195625
+62,BH9,Sweet birch,1,0.25,Canopy,-78.1879161,38.58195625
+63,BH9,Tulip poplar,2,0.5,Canopy,-78.1879161,38.58195625
+64,BN1,Chestnut oak,1,0.111111111,Canopy,-78.16694849,38.58688147
+65,BN1,Red maple,1,0.111111111,Canopy,-78.16694849,38.58688147
+66,BN1,Sweet birch,2,0.222222222,Canopy,-78.16694849,38.58688147
+67,BN1,Tulip poplar,5,0.555555556,Canopy,-78.16694849,38.58688147
+68,BN10,Black locust,1,0.333333333,Canopy,-78.1745449,38.58667268
+69,BN10,Red oak,1,0.333333333,Canopy,-78.1745449,38.58667268
+70,BN10,Tulip poplar,1,0.333333333,Canopy,-78.1745449,38.58667268
+71,BN11,Blackgum,1,0.2,Canopy,-78.17227227,38.58382048
+72,BN11,Chestnut oak,1,0.2,Canopy,-78.17227227,38.58382048
+73,BN11,Hickory,1,0.2,Canopy,-78.17227227,38.58382048
+74,BN11,Tulip poplar,1,0.2,Canopy,-78.17227227,38.58382048
+75,BN11,White pine,1,0.2,Canopy,-78.17227227,38.58382048
+76,BN12,Chestnut oak,2,0.333333333,Canopy,-78.16896708,38.58535318
+77,BN12,Red maple,1,0.166666667,Canopy,-78.16896708,38.58535318
+78,BN12,White pine,3,0.5,Canopy,-78.16896708,38.58535318
+79,BN14,Hickory,1,0.142857143,Canopy,-78.16926998,38.5863201
+80,BN14,Red maple,1,0.142857143,Canopy,-78.16926998,38.5863201
+81,BN14,Sweet birch,3,0.428571429,Canopy,-78.16926998,38.5863201
+82,BN14,Tulip poplar,2,0.285714286,Canopy,-78.16926998,38.5863201
+83,BN15,Black oak,1,0.2,Canopy,-78.1728146,38.58511498
+84,BN15,Hickory,1,0.2,Canopy,-78.1728146,38.58511498
+85,BN15,Tulip poplar,3,0.6,Canopy,-78.1728146,38.58511498
+86,BN2,Black locust,1,0.333333333,Canopy,-78.17054423,38.5855242
+87,BN2,Hickory,1,0.333333333,Canopy,-78.17054423,38.5855242
+88,BN2,White oak,1,0.333333333,Canopy,-78.17054423,38.5855242
+89,BN3,Hickory,2,0.666666667,Canopy,-78.17397497,38.58400707
+90,BN3,Red oak,1,0.333333333,Canopy,-78.17397497,38.58400707
+91,BN4,Black oak,1,0.166666667,Canopy,-78.17604931,38.58680683
+92,BN4,Hickory,2,0.333333333,Canopy,-78.17604931,38.58680683
+93,BN4,Red oak,1,0.166666667,Canopy,-78.17604931,38.58680683
+94,BN4,Tulip poplar,2,0.333333333,Canopy,-78.17604931,38.58680683
+95,BN5,Black oak,2,0.2,Canopy,-78.17263268,38.58810222
+96,BN5,Blackgum,2,0.2,Canopy,-78.17263268,38.58810222
+97,BN5,Hickory,1,0.1,Canopy,-78.17263268,38.58810222
+98,BN5,Red maple,1,0.1,Canopy,-78.17263268,38.58810222
+99,BN5,Red oak,2,0.2,Canopy,-78.17263268,38.58810222
+100,BN5,Tulip poplar,2,0.2,Canopy,-78.17263268,38.58810222
+101,BN6,Dogwood,1,0.2,Canopy,-78.16906067,38.58941263
+102,BN6,Hickory,1,0.2,Canopy,-78.16906067,38.58941263
+103,BN6,Sweet birch,1,0.2,Canopy,-78.16906067,38.58941263
+104,BN6,Tulip poplar,2,0.4,Canopy,-78.16906067,38.58941263
+105,BN8,Blackgum,2,0.222222222,Canopy,-78.16820377,38.58983726
+106,BN8,Sweet birch,1,0.111111111,Canopy,-78.16820377,38.58983726
+107,BN8,White pine,6,0.666666667,Canopy,-78.16820377,38.58983726
+108,BN9,Blackgum,1,0.333333333,Canopy,-78.17130794,38.58824803
+109,BN9,Chestnut oak,1,0.333333333,Canopy,-78.17130794,38.58824803
+110,BN9,White oak,1,0.333333333,Canopy,-78.17130794,38.58824803
+111,BU1,Black oak,2,0.285714286,Canopy,-78.17656221,38.58223068
+112,BU1,Blackgum,3,0.428571429,Canopy,-78.17656221,38.58223068
+113,BU1,Red maple,2,0.285714286,Canopy,-78.17656221,38.58223068
+114,BU10,Chestnut oak,1,0.166666667,Canopy,-78.17936884,38.57299552
+115,BU10,Hickory,5,0.833333333,Canopy,-78.17936884,38.57299552
+116,BU3,Hickory,3,1,Canopy,-78.17728686,38.57716045
+117,BU4,Ailanthus,1,0.333333333,Canopy,-78.17609277,38.57524744
+118,BU4,Tulip poplar,2,0.666666667,Canopy,-78.17609277,38.57524744
+119,BU8,Ailanthus,4,0.444444444,Canopy,-78.18484856,38.57288159
+120,BU8,Black cherry,2,0.222222222,Canopy,-78.18484856,38.57288159
+121,BU8,Red maple,1,0.111111111,Canopy,-78.18484856,38.57288159
+122,BU8,Tulip poplar,2,0.222222222,Canopy,-78.18484856,38.57288159
+123,BU9,Black locust,2,0.333333333,Canopy,-78.18492793,38.56794906
+124,BU9,Hickory,1,0.166666667,Canopy,-78.18492793,38.56794906
+125,BU9,Tulip poplar,3,0.5,Canopy,-78.18492793,38.56794906
+126,BW1,Black cherry,1,0.25,Canopy,-78.19703,38.5693
+127,BW1,Black gum,2,0.5,Canopy,-78.19703,38.5693
+128,BW1,Black walnut,1,0.25,Canopy,-78.19703,38.5693
+129,CR12,Ailanthus,3,0.272727273,Canopy,-78.219012,38.564658
+130,CR12,Red maple,7,0.636363636,Canopy,-78.219012,38.564658
+131,CR12,White oak,1,0.090909091,Canopy,-78.219012,38.564658
+132,CR2,Black cherry,1,0.1,Canopy,-78.211759,38.564195
+133,CR2,Blackgum,1,0.1,Canopy,-78.211759,38.564195
+134,CR2,Blackhaw,1,0.1,Canopy,-78.211759,38.564195
+135,CR2,Hickory,3,0.3,Canopy,-78.211759,38.564195
+136,CR2,Red maple,1,0.1,Canopy,-78.211759,38.564195
+137,CR2,Red oak,2,0.2,Canopy,-78.211759,38.564195
+138,CR2,Sassafras,1,0.1,Canopy,-78.211759,38.564195
+139,CR3,Black locust,1,0.2,Canopy,-78.212646,38.562205
+140,CR3,Hickory,3,0.6,Canopy,-78.212646,38.562205
+141,CR3,Persimmon,1,0.2,Canopy,-78.212646,38.562205
+142,CR4,Hickory,2,0.333333333,Canopy,-78.215285,38.563199
+143,CR4,Red maple,2,0.333333333,Canopy,-78.215285,38.563199
+144,CR4,Tulip poplar,2,0.333333333,Canopy,-78.215285,38.563199
+145,CR5,Walnut,2,1,Canopy,-78.21414,38.561834
+146,CR6,Blackgum,2,0.333333333,Canopy,-78.214129,38.565336
+147,CR6,Red maple,2,0.333333333,Canopy,-78.214129,38.565336
+148,CR6,Tulip poplar,2,0.333333333,Canopy,-78.214129,38.565336
+149,FL1,Ailanthus,3,0.5,Canopy,-78.20325722,38.63546991
+150,FL1,Black cherry,1,0.166666667,Canopy,-78.20325722,38.63546991
+151,FL1,Hackberry,1,0.166666667,Canopy,-78.20325722,38.63546991
+152,FL1,Mulberry,1,0.166666667,Canopy,-78.20325722,38.63546991
+153,FL10,Ailanthus,1,0.125,Canopy,-78.20475436,38.63386269
+154,FL10,Black oak,1,0.125,Canopy,-78.20475436,38.63386269
+155,FL10,Hickory,2,0.25,Canopy,-78.20475436,38.63386269
+156,FL10,Red maple,1,0.125,Canopy,-78.20475436,38.63386269
+157,FL10,Red oak,1,0.125,Canopy,-78.20475436,38.63386269
+158,FL10,Sassafras,1,0.125,Canopy,-78.20475436,38.63386269
+159,FL10,White oak,1,0.125,Canopy,-78.20475436,38.63386269
+160,FL11,Black oak,1,0.166666667,Canopy,-78.20597131,38.63162464
+161,FL11,Blackgum,1,0.166666667,Canopy,-78.20597131,38.63162464
+162,FL11,Tulip poplar,1,0.166666667,Canopy,-78.20597131,38.63162464
+163,FL11,White oak,3,0.5,Canopy,-78.20597131,38.63162464
+164,FL2,Black cherry,2,0.5,Canopy,-78.20518141,38.63400567
+165,FL2,Hickory,1,0.25,Canopy,-78.20518141,38.63400567
+166,FL2,Red maple,1,0.25,Canopy,-78.20518141,38.63400567
+167,FL3,Boxelder,1,0.076923077,Canopy,-78.20692369,38.63291757
+168,FL3,Hickory,2,0.153846154,Canopy,-78.20692369,38.63291757
+169,FL3,Red maple,6,0.461538462,Canopy,-78.20692369,38.63291757
+170,FL3,Sweet birch,1,0.076923077,Canopy,-78.20692369,38.63291757
+171,FL3,Tulip poplar,3,0.230769231,Canopy,-78.20692369,38.63291757
+172,FL4,Ailanthus,4,0.4,Canopy,-78.20539943,38.63129704
+173,FL4,Black cherry,2,0.2,Canopy,-78.20539943,38.63129704
+174,FL4,Hickory,3,0.3,Canopy,-78.20539943,38.63129704
+175,FL4,Red maple,1,0.1,Canopy,-78.20539943,38.63129704
+176,FL5,Dogwood,1,0.25,Canopy,-78.20706672,38.63029763
+177,FL5,Hickory,1,0.25,Canopy,-78.20706672,38.63029763
+178,FL5,Tulip poplar,1,0.25,Canopy,-78.20706672,38.63029763
+179,FL5,Unknown,1,0.25,Canopy,-78.20706672,38.63029763
+180,FL8,Black cherry,1,0.25,Canopy,-78.20378725,38.63254875
+181,FL8,Dogwood,1,0.25,Canopy,-78.20378725,38.63254875
+182,FL8,Sassafras,1,0.25,Canopy,-78.20378725,38.63254875
+183,FL8,Tulip poplar,1,0.25,Canopy,-78.20378725,38.63254875
+184,FL9,Black cherry,1,0.142857143,Canopy,-78.20322248,38.63504511
+185,FL9,Blackgum,2,0.285714286,Canopy,-78.20322248,38.63504511
+186,FL9,Red maple,2,0.285714286,Canopy,-78.20322248,38.63504511
+187,FL9,Tulip poplar,2,0.285714286,Canopy,-78.20322248,38.63504511
+188,FM1,Chestnut oak,2,0.2,Canopy,-78.20337762,38.61993806
+189,FM1,White pine,8,0.8,Canopy,-78.20337762,38.61993806
+190,FM10,Chestnut oak,2,0.5,Canopy,-78.19872507,38.62971619
+191,FM10,Red maple,1,0.25,Canopy,-78.19872507,38.62971619
+192,FM10,White oak,1,0.25,Canopy,-78.19872507,38.62971619
+193,FM2,Blackgum,2,0.5,Canopy,-78.20525799,38.62232039
+194,FM2,Hickory,1,0.25,Canopy,-78.20525799,38.62232039
+195,FM2,Tulip poplar,1,0.25,Canopy,-78.20525799,38.62232039
+196,FM3,Red maple,7,0.466666667,Canopy,-78.20257623,38.62387657
+197,FM3,Tulip poplar,8,0.533333333,Canopy,-78.20257623,38.62387657
+198,FM4,Chestnut oak,2,0.25,Canopy,-78.20431593,38.62630573
+199,FM4,Hickory,2,0.25,Canopy,-78.20431593,38.62630573
+200,FM4,Red maple,2,0.25,Canopy,-78.20431593,38.62630573
+201,FM4,Tulip poplar,1,0.125,Canopy,-78.20431593,38.62630573
+202,FM4,White pine,1,0.125,Canopy,-78.20431593,38.62630573
+203,FM5,Hickory,1,0.5,Canopy,-78.20632015,38.62872779
+204,FM5,Hornbeam,1,0.5,Canopy,-78.20632015,38.62872779
+205,FM6,Black oak,2,0.4,Canopy,-78.20909381,38.62727256
+206,FM6,Chestnut oak,1,0.2,Canopy,-78.20909381,38.62727256
+207,FM6,White pine,2,0.4,Canopy,-78.20909381,38.62727256
+208,FM7,Chestnut oak,2,0.666666667,Canopy,-78.20720401,38.62486471
+209,FM7,Sweet birch,1,0.333333333,Canopy,-78.20720401,38.62486471
+210,FM9,Ash,1,0.037037037,Canopy,-78.20198681,38.6277055
+211,FM9,Blackgum,1,0.037037037,Canopy,-78.20198681,38.6277055
+212,FM9,Eastern hemlock,1,0.037037037,Canopy,-78.20198681,38.6277055
+213,FM9,Hickory,1,0.037037037,Canopy,-78.20198681,38.6277055
+214,FM9,Hornbeam,2,0.074074074,Canopy,-78.20198681,38.6277055
+215,FM9,Red maple,1,0.037037037,Canopy,-78.20198681,38.6277055
+216,FM9,Sweet birch,11,0.407407407,Canopy,-78.20198681,38.6277055
+217,FM9,Witch hazel,9,0.333333333,Canopy,-78.20198681,38.6277055
+218,GS3,Hickory,2,0.285714286,Canopy,-78.172286,38.545508
+219,GS3,Red maple,2,0.285714286,Canopy,-78.172286,38.545508
+220,GS3,Red oak,2,0.285714286,Canopy,-78.172286,38.545508
+221,GS3,Tulip poplar,1,0.142857143,Canopy,-78.172286,38.545508
+222,GS4,Red maple,1,0.142857143,Canopy,-78.169895,38.547087
+223,GS4,Tulip poplar,5,0.714285714,Canopy,-78.169895,38.547087
+224,GS4,White pine,1,0.142857143,Canopy,-78.169895,38.547087
+225,GS5,Blackgum,3,0.333333333,Canopy,-78.178616,38.544055
+226,GS5,Chestnut oak,3,0.333333333,Canopy,-78.178616,38.544055
+227,GS5,Red maple,1,0.111111111,Canopy,-78.178616,38.544055
+228,GS5,Red oak,1,0.111111111,Canopy,-78.178616,38.544055
+229,GS5,Tulip poplar,1,0.111111111,Canopy,-78.178616,38.544055
+230,GS6,Beech,1,0.1,Canopy,-78.180108,38.543187
+231,GS6,Blackgum,2,0.2,Canopy,-78.180108,38.543187
+232,GS6,Chestnut oak,1,0.1,Canopy,-78.180108,38.543187
+233,GS6,Hickory,1,0.1,Canopy,-78.180108,38.543187
+234,GS6,Sweet birch,4,0.4,Canopy,-78.180108,38.543187
+235,GS6,Tulip poplar,1,0.1,Canopy,-78.180108,38.543187
+236,GS8,Red maple,3,0.5,Canopy,-78.176944,38.542294
+237,GS8,Red oak,1,0.166666667,Canopy,-78.176944,38.542294
+238,GS8,Tulip poplar,2,0.333333333,Canopy,-78.176944,38.542294
+239,HW1,Black oak,2,0.4,Canopy,-78.19969215,38.58467681
+240,HW1,Tulip poplar,3,0.6,Canopy,-78.19969215,38.58467681
+241,HW10,Hickory,1,0.166666667,Canopy,-78.19806542,38.58738005
+242,HW10,Sweet birch,4,0.666666667,Canopy,-78.19806542,38.58738005
+243,HW10,Tulip poplar,1,0.166666667,Canopy,-78.19806542,38.58738005
+244,HW11,Ailanthus,1,0.142857143,Canopy,-78.19808123,38.58463793
+245,HW11,Tulip poplar,4,0.571428571,Canopy,-78.19808123,38.58463793
+246,HW11,White oak,2,0.285714286,Canopy,-78.19808123,38.58463793
+247,HW12,Hickory,3,0.375,Canopy,-78.19631707,38.58373775
+248,HW12,Tulip poplar,3,0.375,Canopy,-78.19631707,38.58373775
+249,HW12,Virginia pine,1,0.125,Canopy,-78.19631707,38.58373775
+250,HW12,White oak,1,0.125,Canopy,-78.19631707,38.58373775
+251,HW3,Black locust,1,0.25,Canopy,-78.19851357,38.58663849
+252,HW3,Hickory,1,0.25,Canopy,-78.19851357,38.58663849
+253,HW3,Red maple,1,0.25,Canopy,-78.19851357,38.58663849
+254,HW3,Tulip poplar,1,0.25,Canopy,-78.19851357,38.58663849
+255,HW4,Hickory,1,0.166666667,Canopy,-78.19673378,38.58442414
+256,HW4,Red maple,1,0.166666667,Canopy,-78.19673378,38.58442414
+257,HW4,Tulip poplar,1,0.166666667,Canopy,-78.19673378,38.58442414
+258,HW4,Virginia pine,1,0.166666667,Canopy,-78.19673378,38.58442414
+259,HW4,White oak,2,0.333333333,Canopy,-78.19673378,38.58442414
+260,HW7,Blackgum,1,0.166666667,Canopy,-78.1954092,38.58320865
+261,HW7,Red maple,1,0.166666667,Canopy,-78.1954092,38.58320865
+262,HW7,Sweet birch,1,0.166666667,Canopy,-78.1954092,38.58320865
+263,HW7,Tulip poplar,1,0.166666667,Canopy,-78.1954092,38.58320865
+264,HW7,White oak,1,0.166666667,Canopy,-78.1954092,38.58320865
+265,HW7,White pine,1,0.166666667,Canopy,-78.1954092,38.58320865
+266,HW9,Sweet birch,2,0.25,Canopy,-78.19471473,38.58482218
+267,HW9,Tulip poplar,5,0.625,Canopy,-78.19471473,38.58482218
+268,HW9,White oak,1,0.125,Canopy,-78.19471473,38.58482218
+269,JM10,Tulip poplar,7,1,Canopy,-78.220841,38.609323
+270,JM11,Tulip poplar,6,0.75,Canopy,-78.217368,38.611351
+271,JM11,White pine,2,0.25,Canopy,-78.217368,38.611351
+272,JM12,Ailanthus,2,0.5,Canopy,-78.217433,38.609884
+273,JM12,Sassafras,1,0.25,Canopy,-78.217433,38.609884
+274,JM12,Tulip poplar,1,0.25,Canopy,-78.217433,38.609884
+275,JM13,Tulip poplar,4,1,Canopy,-78.219322,38.60723
+276,JM14,Blackgum,1,0.142857143,Canopy,-78.221769,38.606957
+277,JM14,Hickory,6,0.857142857,Canopy,-78.221769,38.606957
+278,JM16,Green ash,1,0.142857143,Canopy,-78.226217,38.605819
+279,JM16,Hickory,1,0.142857143,Canopy,-78.226217,38.605819
+280,JM16,Redbud,2,0.285714286,Canopy,-78.226217,38.605819
+281,JM16,Tulip poplar,2,0.285714286,Canopy,-78.226217,38.605819
+282,JM16,Walnut,1,0.142857143,Canopy,-78.226217,38.605819
+283,JM17,Hickory,3,0.428571429,Canopy,-78.222802,38.609037
+284,JM17,Sweet birch,2,0.285714286,Canopy,-78.222802,38.609037
+285,JM17,Tulip poplar,2,0.285714286,Canopy,-78.222802,38.609037
+286,JM2,Black cherry,1,0.142857143,Canopy,-78.22392,38.606527
+287,JM2,Tulip poplar,6,0.857142857,Canopy,-78.22392,38.606527
+288,JM3,Hickory,6,0.461538462,Canopy,-78.22677,38.607791
+289,JM3,Red maple,1,0.076923077,Canopy,-78.22677,38.607791
+290,JM3,Red oak,1,0.076923077,Canopy,-78.22677,38.607791
+291,JM3,Striped maple,4,0.307692308,Canopy,-78.22677,38.607791
+292,JM3,Tulip poplar,1,0.076923077,Canopy,-78.22677,38.607791
+293,JM4,Blackgum,1,0.142857143,Canopy,-78.222904,38.610793
+294,JM4,Chestnut oak,4,0.571428571,Canopy,-78.222904,38.610793
+295,JM4,Sweet birch,1,0.142857143,Canopy,-78.222904,38.610793
+296,JM4,Tulip poplar,1,0.142857143,Canopy,-78.222904,38.610793
+297,JM6,Black gum,1,0.2,Canopy,-78.220892,38.613015
+298,JM6,Tulip poplar,4,0.8,Canopy,-78.220892,38.613015
+299,JM8,Blackgum,3,0.3,Canopy,-78.22781,38.609893
+300,JM8,Elm,3,0.3,Canopy,-78.22781,38.609893
+301,JM8,Hickory,1,0.1,Canopy,-78.22781,38.609893
+302,JM8,Northern red oak,1,0.1,Canopy,-78.22781,38.609893
+303,JM8,Walnut,1,0.1,Canopy,-78.22781,38.609893
+304,JM8,White oak,1,0.1,Canopy,-78.22781,38.609893
+305,JM9,Hickory,3,0.3,Canopy,-78.2252,38.609651
+306,JM9,Sweet birch,1,0.1,Canopy,-78.2252,38.609651
+307,JM9,Tulip poplar,6,0.6,Canopy,-78.2252,38.609651
+308,PT3,Blackgum,3,0.75,Canopy,-78.21255115,38.6352482
+309,PT3,Boxelder,1,0.25,Canopy,-78.21255115,38.6352482
+310,PT4,Ailanthus,1,0.166666667,Canopy,-78.21408207,38.63444792
+311,PT4,Hickory,2,0.333333333,Canopy,-78.21408207,38.63444792
+312,PT4,Mimosa,1,0.166666667,Canopy,-78.21408207,38.63444792
+313,PT4,Tulip poplar,1,0.166666667,Canopy,-78.21408207,38.63444792
+314,PT4,Unknown,1,0.166666667,Canopy,-78.21408207,38.63444792
+315,PT6,Ailanthus,2,0.5,Canopy,-78.21278701,38.6329028
+316,PT6,Black cherry,1,0.25,Canopy,-78.21278701,38.6329028
+317,PT6,Tulip poplar,1,0.25,Canopy,-78.21278701,38.6329028
+318,PT9,Black cherry,1,0.142857143,Canopy,-78.21439094,38.63415462
+319,PT9,Black oak,3,0.428571429,Canopy,-78.21439094,38.63415462
+320,PT9,Dogwood,1,0.142857143,Canopy,-78.21439094,38.63415462
+321,PT9,Tulip poplar,2,0.285714286,Canopy,-78.21439094,38.63415462
+322,QW10,Ailanthus,1,0.125,Canopy,-78.19268741,38.57015683
+323,QW10,Blackgum,2,0.25,Canopy,-78.19268741,38.57015683
+324,QW10,Post oak,3,0.375,Canopy,-78.19268741,38.57015683
+325,QW10,Tulip poplar,1,0.125,Canopy,-78.19268741,38.57015683
+326,QW10,Virginia pine,1,0.125,Canopy,-78.19268741,38.57015683
+327,QW14,White oak,4,1,Canopy,-78.19125049,38.56992597
+328,QW3,Hickory,2,1,Canopy,-78.18986273,38.56997318
+329,QW7,Ailanthus,1,0.142857143,Canopy,-78.19118852,38.57227392
+330,QW7,Sweet birch,1,0.142857143,Canopy,-78.19118852,38.57227392
+331,QW7,Tulip poplar,5,0.714285714,Canopy,-78.19118852,38.57227392
+332,QW8,Ailanthus,6,0.857142857,Canopy,-78.19290446,38.57338422
+333,QW8,Black walnut,1,0.142857143,Canopy,-78.19290446,38.57338422
+334,QW9,Black cherry,1,0.166666667,Canopy,-78.19407052,38.57117772
+335,QW9,Eastern redcedar,1,0.166666667,Canopy,-78.19407052,38.57117772
+336,QW9,Hawthorn,1,0.166666667,Canopy,-78.19407052,38.57117772
+337,QW9,Post oak,2,0.333333333,Canopy,-78.19407052,38.57117772
+338,QW9,Red maple,1,0.166666667,Canopy,-78.19407052,38.57117772
+339,RK1,Black cherry,1,1,Canopy,-78.219118,38.547261
+340,RK10,Ailanthus,2,0.4,Canopy,-78.222795,38.550032
+341,RK10,Red maple,2,0.4,Canopy,-78.222795,38.550032
+342,RK10,Tulip poplar,1,0.2,Canopy,-78.222795,38.550032
+343,RK11,Chestnut oak,1,0.166666667,Canopy,-78.21937,38.548485
+344,RK11,Hickory,1,0.166666667,Canopy,-78.21937,38.548485
+345,RK11,Tulip poplar,1,0.166666667,Canopy,-78.21937,38.548485
+346,RK11,White oak,3,0.5,Canopy,-78.21937,38.548485
+347,RK12,Black cherry,1,0.5,Canopy,-78.219249,38.551694
+348,RK12,Eastern redcedar,1,0.5,Canopy,-78.219249,38.551694
+349,RK2,Blackgum,1,0.25,Canopy,-78.220671,38.548107
+350,RK2,Tulip poplar,2,0.5,Canopy,-78.220671,38.548107
+351,RK2,White oak,1,0.25,Canopy,-78.220671,38.548107
+352,RK3,Ailanthus,1,0.333333333,Canopy,-78.222398,38.548961
+353,RK3,Walnut,2,0.666666667,Canopy,-78.222398,38.548961
+354,RK4,Hickory,4,0.444444444,Canopy,-78.221328,38.550192
+355,RK4,Red maple,2,0.222222222,Canopy,-78.221328,38.550192
+356,RK4,Shagwood hickory,2,0.222222222,Canopy,-78.221328,38.550192
+357,RK4,Tulip poplar,1,0.111111111,Canopy,-78.221328,38.550192
+358,RK5,Black gum,2,0.25,Canopy,-78.219692,38.549409
+359,RK5,Black walnut,1,0.125,Canopy,-78.219692,38.549409
+360,RK5,Northern red oak,1,0.125,Canopy,-78.219692,38.549409
+361,RK5,Tulip poplar,2,0.25,Canopy,-78.219692,38.549409
+362,RK5,White oak,2,0.25,Canopy,-78.219692,38.549409
+363,RK6,Black oak,3,0.5,Canopy,-78.218618,38.550711
+364,RK6,Red maple,2,0.333333333,Canopy,-78.218618,38.550711
+365,RK6,Virginia pine,1,0.166666667,Canopy,-78.218618,38.550711
+366,RK9,Red maple,1,0.25,Canopy,-78.218171,38.549081
+367,RK9,Tulip poplar,3,0.75,Canopy,-78.218171,38.549081
+368,RMH10,Unknown,1,0.2,Canopy,-78.19841997,38.60513669
+369,RMH10,Hickory,3,0.6,Canopy,-78.19841997,38.60513669
+370,RMH10,Tulip poplar,1,0.2,Canopy,-78.19841997,38.60513669
+371,RMH2,Black oak,1,0.142857143,Canopy,-78.19528747,38.60379676
+372,RMH2,Hickory,1,0.142857143,Canopy,-78.19528747,38.60379676
+373,RMH2,Princess tree,1,0.142857143,Canopy,-78.19528747,38.60379676
+374,RMH2,Red maple,2,0.285714286,Canopy,-78.19528747,38.60379676
+375,RMH2,Sassafrass,1,0.142857143,Canopy,-78.19528747,38.60379676
+376,RMH2,Tulip poplar,1,0.142857143,Canopy,-78.19528747,38.60379676
+377,RMH4,Chestnut oak,1,0.142857143,Canopy,-78.1987684,38.60361962
+378,RMH4,Hickory,4,0.571428571,Canopy,-78.1987684,38.60361962
+379,RMH4,Unknown,1,0.142857143,Canopy,-78.1987684,38.60361962
+380,RMH4,White oak,1,0.142857143,Canopy,-78.1987684,38.60361962
+381,RMH8,Black oak,1,0.2,Canopy,-78.19751883,38.59819537
+382,RMH8,Hickory,2,0.4,Canopy,-78.19751883,38.59819537
+383,RMH8,Red maple,1,0.2,Canopy,-78.19751883,38.59819537
+384,RMH8,Tulip poplar,1,0.2,Canopy,-78.19751883,38.59819537
+385,RMH9,Red maple,2,0.4,Canopy,-78.19929885,38.59692967
+386,RMH9,Tulip poplar,3,0.6,Canopy,-78.19929885,38.59692967
+387,RMM1,Hackberry,1,0.333333333,Canopy,-78.20069803,38.60462082
+388,RMM1,Sycamore,1,0.333333333,Canopy,-78.20069803,38.60462082
+389,RMM1,Tulip poplar,1,0.333333333,Canopy,-78.20069803,38.60462082
+390,RMM10,Black oak,1,0.2,Canopy,-78.20029258,38.60108755
+391,RMM10,Red maple,3,0.6,Canopy,-78.20029258,38.60108755
+392,RMM10,White pine,1,0.2,Canopy,-78.20029258,38.60108755
+393,RMM3,Black oak,1,0.2,Canopy,-78.19924615,38.60344121
+394,RMM3,Chestnut oak,1,0.2,Canopy,-78.19924615,38.60344121
+395,RMM3,Hickory,2,0.4,Canopy,-78.19924615,38.60344121
+396,RMM3,White pine,1,0.2,Canopy,-78.19924615,38.60344121
+397,RMM6,Black oak,1,0.2,Canopy,-78.19819798,38.59960719
+398,RMM6,Chestnut oak,4,0.8,Canopy,-78.19819798,38.59960719
+399,RMM8,Black oak,1,0.5,Canopy,-78.19918648,38.60010032
+400,RMM8,Sweet birch,1,0.5,Canopy,-78.19918648,38.60010032
+401,SL1,Ailanthus,1,0.2,Canopy,-78.19477034,38.62236176
+402,SL1,Tulip poplar,4,0.8,Canopy,-78.19477034,38.62236176
+403,SL12,Black oak,1,0.166666667,Canopy,-78.19853844,38.61886169
+404,SL12,Red maple,1,0.166666667,Canopy,-78.19853844,38.61886169
+405,SL12,Sweet birch,3,0.5,Canopy,-78.19853844,38.61886169
+406,SL12,Tulip poplar,1,0.166666667,Canopy,-78.19853844,38.61886169
+407,SL2,Chestnut oak,1,0.2,Canopy,-78.19612753,38.62125195
+408,SL2,Red oak,1,0.2,Canopy,-78.19612753,38.62125195
+409,SL2,Sweet birch,3,0.6,Canopy,-78.19612753,38.62125195
+410,SL3,Blackgum,3,0.375,Canopy,-78.19480652,38.62012551
+411,SL3,Hickory,1,0.125,Canopy,-78.19480652,38.62012551
+412,SL3,Red maple,1,0.125,Canopy,-78.19480652,38.62012551
+413,SL3,Tulip poplar,1,0.125,Canopy,-78.19480652,38.62012551
+414,SL3,White oak,2,0.25,Canopy,-78.19480652,38.62012551
+415,SL4,Black oak,2,0.2,Canopy,-78.19612502,38.61897473
+416,SL4,Blackgum,1,0.1,Canopy,-78.19612502,38.61897473
+417,SL4,Chestnut oak,2,0.2,Canopy,-78.19612502,38.61897473
+418,SL4,Sweet birch,4,0.4,Canopy,-78.19612502,38.61897473
+419,SL4,Tulip poplar,1,0.1,Canopy,-78.19612502,38.61897473
+420,SL5,Blackgum,1,0.166666667,Canopy,-78.19477474,38.61786737
+421,SL5,Chestnut oak,1,0.166666667,Canopy,-78.19477474,38.61786737
+422,SL5,Red oak,1,0.166666667,Canopy,-78.19477474,38.61786737
+423,SL5,Sweet birch,2,0.333333333,Canopy,-78.19477474,38.61786737
+424,SL5,Tulip poplar,1,0.166666667,Canopy,-78.19477474,38.61786737
+425,SL6,Red maple,3,0.428571429,Canopy,-78.1934786,38.61690617
+426,SL6,Tulip poplar,4,0.571428571,Canopy,-78.1934786,38.61690617
+427,SL8,Maple spp.,1,0.25,Canopy,-78.19564345,38.61477874
+428,SL8,Tulip poplar,3,0.75,Canopy,-78.19564345,38.61477874
+429,SL9,Black walnut,2,0.666666667,Canopy,-78.19830825,38.61667681
+430,SL9,Tulip poplar,1,0.333333333,Canopy,-78.19830825,38.61667681
+431,SM13,Red maple,1,0.2,Canopy,-78.20325499,38.58975668
+432,SM13,Tulip poplar,4,0.8,Canopy,-78.20325499,38.58975668
+433,SM14,Black oak,1,0.2,Canopy,-78.2024675,38.59140869
+434,SM14,Chestnut oak,1,0.2,Canopy,-78.2024675,38.59140869
+435,SM14,Hickory,1,0.2,Canopy,-78.2024675,38.59140869
+436,SM14,Red oak,2,0.4,Canopy,-78.2024675,38.59140869
+437,SM15,Black oak,1,0.333333333,Canopy,-78.20884803,38.59040434
+438,SM15,Tulip poplar,2,0.666666667,Canopy,-78.20884803,38.59040434
+439,SM2,Blackgum,1,0.5,Canopy,-78.2025508,38.58986222
+440,SM2,Red maple,1,0.5,Canopy,-78.2025508,38.58986222
+441,SM5,Blackgum,2,0.285714286,Canopy,-78.20860482,38.59199634
+442,SM5,Red maple,2,0.285714286,Canopy,-78.20860482,38.59199634
+443,SM5,Tulip poplar,3,0.428571429,Canopy,-78.20860482,38.59199634
+444,SM6,Red maple,5,0.714285714,Canopy,-78.20847498,38.59501962
+445,SM6,Striped maple,1,0.142857143,Canopy,-78.20847498,38.59501962
+446,SM6,Tulip poplar,1,0.142857143,Canopy,-78.20847498,38.59501962
+447,SM7,Ailanthus,1,0.166666667,Canopy,-78.20880512,38.58880261
+448,SM7,Tulip poplar,3,0.5,Canopy,-78.20880512,38.58880261
+449,SM7,Walnut,2,0.333333333,Canopy,-78.20880512,38.58880261
+450,SM9,Red maple,1,0.142857143,Canopy,-78.20029856,38.59130149
+451,SM9,Red oak,1,0.142857143,Canopy,-78.20029856,38.59130149
+452,SM9,Striped maple,1,0.142857143,Canopy,-78.20029856,38.59130149
+453,SM9,Sweet birch,3,0.428571429,Canopy,-78.20029856,38.59130149
+454,SM9,Tulip poplar,1,0.142857143,Canopy,-78.20029856,38.59130149
+455,SMH1,Post oak,1,0.5,Canopy,-78.19602887,38.59419346
+456,SMH1,White oak,1,0.5,Canopy,-78.19602887,38.59419346
+457,SMH2,Black oak,1,0.090909091,Canopy,-78.19707525,38.5934167
+458,SMH2,Blackgum,4,0.363636364,Canopy,-78.19707525,38.5934167
+459,SMH2,Red maple,1,0.090909091,Canopy,-78.19707525,38.5934167
+460,SMH2,Red oak,3,0.272727273,Canopy,-78.19707525,38.5934167
+461,SMH2,White oak,2,0.181818182,Canopy,-78.19707525,38.5934167
+462,SMH4,Hickory,2,0.222222222,Canopy,-78.19568937,38.59288103
+463,SMH4,White oak,5,0.555555556,Canopy,-78.19568937,38.59288103
+464,SMH4,White pine,2,0.222222222,Canopy,-78.19568937,38.59288103
+465,SMH6,Blackgum,2,0.333333333,Canopy,-78.19499268,38.59339084
+466,SMH6,Hickory,3,0.5,Canopy,-78.19499268,38.59339084
+467,SMH6,Red maple,1,0.166666667,Canopy,-78.19499268,38.59339084
+468,SMH7,Hickory,2,0.5,Canopy,-78.19469286,38.59201311
+469,SMH7,Tulip poplar,2,0.5,Canopy,-78.19469286,38.59201311
+470,SMH8,Hickory,1,0.2,Canopy,-78.19525866,38.59151318
+471,SMH8,Red maple,2,0.4,Canopy,-78.19525866,38.59151318
+472,SMH8,Tulip poplar,1,0.2,Canopy,-78.19525866,38.59151318
+473,SMH8,White oak,1,0.2,Canopy,-78.19525866,38.59151318
+474,SMH9,Red maple,1,0.090909091,Canopy,-78.19606692,38.59254544
+475,SMH9,Red oak,1,0.090909091,Canopy,-78.19606692,38.59254544
+476,SMH9,Sweet birch,1,0.090909091,Canopy,-78.19606692,38.59254544
+477,SMH9,Tulip poplar,1,0.090909091,Canopy,-78.19606692,38.59254544
+478,SMH9,White oak,2,0.181818182,Canopy,-78.19606692,38.59254544
+479,SMH9,White pine,5,0.454545455,Canopy,-78.19606692,38.59254544
+480,SMHA,Blackgum,2,0.25,Canopy,-78.19577,38.59363
+481,SMHA,Hickory,2,0.25,Canopy,-78.19577,38.59363
+482,SMHA,Red maple,2,0.25,Canopy,-78.19577,38.59363
+483,SMHA,White oak,2,0.25,Canopy,-78.19577,38.59363
+484,SMS2,Tulip poplar,4,1,Canopy,-78.20517713,38.58267054
+485,SMS3,Blackgum,1,0.5,Canopy,-78.20641206,38.58132046
+486,SMS3,Sweet birch,1,0.5,Canopy,-78.20641206,38.58132046
+487,SMS4,Ailanthus,1,0.142857143,Canopy,-78.20462425,38.58263361
+488,SMS4,Eastern hemlock,1,0.142857143,Canopy,-78.20462425,38.58263361
+489,SMS4,Sweet birch,1,0.142857143,Canopy,-78.20462425,38.58263361
+490,SMS4,Tulip poplar,4,0.571428571,Canopy,-78.20462425,38.58263361
+491,SMS6,Ash,2,0.222222222,Canopy,-78.20270522,38.58126096
+492,SMS6,Hickory,1,0.111111111,Canopy,-78.20270522,38.58126096
+493,SMS6,Sweet birch,3,0.333333333,Canopy,-78.20270522,38.58126096
+494,SMS6,Tulip poplar,2,0.222222222,Canopy,-78.20270522,38.58126096
+495,SMS6,White oak,1,0.111111111,Canopy,-78.20270522,38.58126096
+496,SMS7,Eastern hemlock,1,0.142857143,Canopy,-78.20095706,38.58259881
+497,SMS7,Sweet birch,4,0.571428571,Canopy,-78.20095706,38.58259881
+498,SMS7,Tulip poplar,1,0.142857143,Canopy,-78.20095706,38.58259881
+499,SMS7,White pine,1,0.142857143,Canopy,-78.20095706,38.58259881
+500,WM1,Ailanthus,2,0.181818182,Canopy,-78.212743,38.542724
+501,WM1,Black cherry,1,0.090909091,Canopy,-78.212743,38.542724
+502,WM1,Black walnut,1,0.090909091,Canopy,-78.212743,38.542724
+503,WM1,Red maple,3,0.272727273,Canopy,-78.212743,38.542724
+504,WM1,Tulip poplar,4,0.363636364,Canopy,-78.212743,38.542724
+505,WM10,Blackgum,3,0.6,Canopy,-78.213597,38.5461
+506,WM10,Red maple,1,0.2,Canopy,-78.213597,38.5461
+507,WM10,Tulip poplar,1,0.2,Canopy,-78.213597,38.5461
+508,WM12,Ailanthus,2,0.333333333,Canopy,-78.209145,38.557582
+509,WM12,Black oak,1,0.166666667,Canopy,-78.209145,38.557582
+510,WM12,Mulberry,1,0.166666667,Canopy,-78.209145,38.557582
+511,WM12,Red maple,1,0.166666667,Canopy,-78.209145,38.557582
+512,WM12,Red oak,1,0.166666667,Canopy,-78.209145,38.557582
+513,WM13,Red maple,1,0.166666667,Canopy,-78.218045,38.547809
+514,WM13,Tulip poplar,1,0.166666667,Canopy,-78.218045,38.547809
+515,WM13,Virginia pine,3,0.5,Canopy,-78.218045,38.547809
+516,WM13,White pine,1,0.166666667,Canopy,-78.218045,38.547809
+517,WM15,Hickory,2,0.4,Canopy,-78.216761,38.550086
+518,WM15,Tulip poplar,2,0.4,Canopy,-78.216761,38.550086
+519,WM15,White oak,1,0.2,Canopy,-78.216761,38.550086
+520,WM3,Ailanthus,3,0.3,Canopy,-78.217219,38.542496
+521,WM3,Tulip poplar,7,0.7,Canopy,-78.217219,38.542496
+522,WM4,Blackgum,1,0.25,Canopy,-78.211492,38.551358
+523,WM4,Tulip poplar,3,0.75,Canopy,-78.211492,38.551358
+524,WM5,Black walnut,1,0.333333333,Canopy,-78.209635,38.555795
+525,WM5,Red maple,1,0.333333333,Canopy,-78.209635,38.555795
+526,WM5,Tulip poplar,1,0.333333333,Canopy,-78.209635,38.555795
+527,WM6,Blackgum,1,0.2,Canopy,-78.205809,38.55837
+528,WM6,Hickory,3,0.6,Canopy,-78.205809,38.55837
+529,WM6,Red oak,1,0.2,Canopy,-78.205809,38.55837
+530,WM8,Chestnut oak,1,0.166666667,Canopy,-78.214997,38.55092
+531,WM8,Cucumber tree,2,0.333333333,Canopy,-78.214997,38.55092
+532,WM8,Hickory,1,0.166666667,Canopy,-78.214997,38.55092
+533,WM8,Tulip poplar,2,0.333333333,Canopy,-78.214997,38.55092
+534,WM9,Blackgum,1,0.25,Canopy,-78.211462,38.553962
+535,WM9,Chestnut oak,3,0.75,Canopy,-78.211462,38.553962
