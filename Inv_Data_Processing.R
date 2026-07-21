@@ -33,24 +33,63 @@ sh <- read.csv("C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Shrubs_All.csv"
 # write.csv(treefreak, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/TreeRF_Dec.csv")
 
 treefreak <- read.csv("C:/Users/rwetz/Documents/GitHub/Forest_Inventory/TreeRF_Dec.csv")
+vert <- read.csv("C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/RF_GPS.csv")
+vert <- na.omit(vert)
+
+# Hello subsets my old friend
+list_sp <- split(vert, vert$Species)
+list_sp <- lapply(list_sp, function(x) {as.data.frame(x)})
+list2env(list_sp, envir = .GlobalEnv)
+
+  # QAQC
+blackcherry <- `Black cherry`
+BLACKGUM <- rbind(`Black gum`, Blackgum)
+maples <- rbind(`Red maple`, `Striped maple`, Boxelder, `Maple spp.`)
+walnut <- rbind(`Black walnut`, Walnut)
+Ash <- rbind(Ash, `Green ash`)
+hickory <- rbind(`Shagwood hickory`, Hickory)
+
+  # Save SELECTED dfs as csv
+write.csv(aial, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/aial.csv")
+write.csv(Ash, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/Ash.csv")
+write.csv(Beech, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/fagr.csv")
+write.csv(blackcherry, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/prse.csv")
+write.csv(BLACKGUM, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/nysy.csv")
+write.csv(maples, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/maple.csv")
+write.csv(`Black locust`, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/rops.csv")
+write.csv(`Black oak`, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/quve.csv")
+write.csv(walnut, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/walnut.csv")
+write.csv(`Chestnut oak`, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/qumo.csv")
+write.csv(`Cucumber tree`, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/magnolia.csv")
+write.csv(Dogwood, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/cofl.csv")
+write.csv(`Eastern hemlock`, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/tsca.csv")
+write.csv(`Eastern redcedar`, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/juvi.csv")
+write.csv(Hackberry, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/hack.csv")
+write.csv(`hickory`, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/carya.csv")
+write.csv(Hornbeam, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/osvi.csv")
+write.csv(Mulberry, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/morus.csv")
+write.csv(, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/hack.csv")
+
+
+
 
 # Turn data into a list by plot
-  list_df <- split(treefreak, treefreak$Plot.ID)
-  list2env(list_df, envir = .GlobalEnv)
+  # list_df <- split(treefreak, treefreak$Plot.ID)
+  # list2env(list_df, envir = .GlobalEnv)
   #list2DF(list_df)
   
 # Transpose each df in list and save 
-  list_df <- lapply(list_df, function(x) {t(x)})
-  list_df <- lapply(list_df, function(x) {as.data.frame(x)})
-  trees <- as.data.frame(list_df)
-  write_csv(trees, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/TreeRF_Cols.csv")
-  list2env(list_df, envir = .GlobalEnv)
-  
-  TEST <- BA10
-  colnames(BA10)[colnames(BA10) == '1'] <- 'Sp 1'
-  colnames(BA10)[colnames(BA10) == '2'] <- 'Sp 2'
-  colnames(BA10)[colnames(BA10) == '3'] <- 'Sp 3'
-  stt <- stack(BA10)
+  # list_df <- lapply(list_df, function(x) {t(x)})
+  # list_df <- lapply(list_df, function(x) {as.data.frame(x)})
+  # trees <- as.data.frame(list_df)
+  # write_csv(trees, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/TreeRF_Cols.csv")
+  # list2env(list_df, envir = .GlobalEnv)
+  # 
+  # TEST <- BA10
+  # colnames(BA10)[colnames(BA10) == '1'] <- 'Sp 1'
+  # colnames(BA10)[colnames(BA10) == '2'] <- 'Sp 2'
+  # colnames(BA10)[colnames(BA10) == '3'] <- 'Sp 3'
+  # stt <- stack(BA10)
 
   # Saplings
 sa$Sp.total <- rowSums(cbind(sa$X0.1.3..DBH,sa$X3.4.9..DBH), na.rm=TRUE) 
