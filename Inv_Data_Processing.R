@@ -48,6 +48,8 @@ maples <- rbind(`Red maple`, `Striped maple`, Boxelder, `Maple spp.`)
 walnut <- rbind(`Black walnut`, Walnut)
 Ash <- rbind(Ash, `Green ash`)
 hickory <- rbind(`Shagwood hickory`, Hickory)
+r.oak <- rbind(`Northern red oak`, `Red oak`)
+sass <- rbind(Sassafras, Sassafrass)
 
   # Save SELECTED dfs as csv
 write.csv(aial, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/aial.csv")
@@ -68,10 +70,17 @@ write.csv(Hackberry, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_In
 write.csv(`hickory`, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/carya.csv")
 write.csv(Hornbeam, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/osvi.csv")
 write.csv(Mulberry, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/morus.csv")
-write.csv(, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/hack.csv")
-
-
-
+write.csv(r.oak, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/quru.csv")
+write.csv(`Post oak`, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/qust.csv")
+write.csv(Redbud, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/ceca.csv")
+write.csv(sass, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/sassafras.csv")
+write.csv(`Sweet birch`, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/bele.csv")
+write.csv(`Sycamore`, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/ploc.csv")
+write.csv(`Tulip poplar`, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/litu.csv")
+write.csv(`Virginia pine`, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/pivi.csv")
+write.csv(`White oak`, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/qual.csv")
+write.csv(`White pine`, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/strobus.csv")
+write.csv(`Witch hazel`, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Forest_Inv_Map/havi.csv")
 
 # Turn data into a list by plot
   # list_df <- split(treefreak, treefreak$Plot.ID)
