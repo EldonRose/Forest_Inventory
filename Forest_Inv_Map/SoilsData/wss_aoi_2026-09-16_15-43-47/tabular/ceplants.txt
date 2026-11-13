@@ -1,0 +1,8 @@
+"2GLA"||"other annual grasslikes"|8||"27339641"|"111574234"
+"2SHRUB"||"other shrubs"|6||"27339641"|"111574235"
+"ARST5"|"Aristida stricta"|"pineland threeawn"|33||"27339641"|"111574498"
+"DESMO"|"Desmodium"|"ticktrefoil"|3||"27339641"|"111574876"
+"LESPE"|"Lespedeza"|"lespedeza"|3||"27339641"|"111575085"
+"PANIC"|"Panicum"|"panicum"|19||"27339641"|"111575377"
+"PANIC"|"Panicum"|"panicum"|6||"27339641"|"111575378"
+"SCSC"|"Schizachyrium scoparium"|"little bluestem"|22||"27339641"|"111576032"

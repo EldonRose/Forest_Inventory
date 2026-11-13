@@ -23,10 +23,7 @@ sh <- read.csv("C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Shrubs_All.csv"
 #treefreak$Class <- "Canopy"
 
   # Convert Percents to Decimals
-# treefreak <- tree %>%
-#   group_by (Plot.ID, Species) %>%
-#   summarise (n=n()) %>%
-#   mutate(rel.freq = paste0((n/sum(n))))
+# .
 # treefreak$Class <- "Canopy"
 #   # Remove NAs
 # treefreak <- na.omit(treefreak)

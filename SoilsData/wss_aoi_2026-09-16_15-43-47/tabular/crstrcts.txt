@@ -1,0 +1,5 @@
+"Lithic bedrock"|"Indurated"|102|112|152||122|||||"27339553"|"7787819"
+"Paralithic bedrock"|"Moderately coherent"|93|93|102||112|||||"27339553"|"7787820"
+"Fragipan"|"Weakly coherent"||36|||84|||48||"27339556"|"7787821"
+"Lithic bedrock"|"Indurated"|102|107|152||117|||||"27339602"|"7787828"
+"Lithic bedrock"||0|0|0|||||||"27339617"|"7787832"

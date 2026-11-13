@@ -1,0 +1,5 @@
+"County or Parish"|"VA157"|"Rappahannock"|171000|"14532"|"621961"
+"MLRA"|"148"|"Northern Piedmont"|47702|"14532"|"621962"
+"MLRA"|"130A"|"Northern Blue Ridge"|123298|"14532"|"621963"
+"Rainfall Factor Area (USLE)"|"155"|"Rainfall Factor"|171000|"14532"|"621964"
+"State or Territory"|"VA"|"Virginia"|171000|"14532"|"621965"
