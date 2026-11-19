@@ -2,11 +2,26 @@
 # Packages
 install.packages("dplyr")
 library(dplyr)
+install.packages("tidyverse")
+library(tidyverse)
+install.packages("FastUtils")
+library("FastUtils")
 
 # Load data
 sav <- read.csv("C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Savannas/Savanna_Data.csv")
+clump <- read.csv("C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Savannas/clumps.csv")
 
-sav <- sav %>% mutate(Species = replace_values(Family.Genus, 
+# Remove empty rows
+sav <- sav[1:637, 1:8]
+
+# Add clump names
+sav <- cbind(sav, clump)
+
+  # Change 101 E to 101 F
+sav <- sav %>% mutate(Site.Name = replace_values(Site.Name, "101 E" ~ "101 F"))
+
+# Fix species names
+sav <- sav %>% mutate(Species = replace_values(Family.Genus,
                                 "White Oak" ~ "White Oak",
                                 "white oak" ~ "White Oak",
                                 "Cherry" ~ "Black Cherry",
@@ -36,5 +51,42 @@ sav <- sav %>% mutate(Species = replace_values(Family.Genus,
                                 "Princess tree" ~ "Princess Tree",
                                 "Tulip poplar" ~ "Tulip Poplar",
                                 "ailanthus" ~ "Ailanthus",
-                                "Juniper" ~ "Eastern Red Cedar"
+                                "Juniper" ~ "Eastern Red Cedar",
+                                "UNKNOWN TREE" ~ "NA",
+                                "N/A" ~ "NA",
+                                "Blackhaw" ~ "Blackhaw",
+                                "Overgrown?" ~ "NA",
+                                "Maple (Dead)" ~ "Dead",
+                                "maple" ~ "Maple Sp.",
+                                "dead/dying ailanthus" ~ "Ailanthus"
                                 ))
+write.csv(sav, "C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Savannas/sav_trees_clumps_rw.csv")
+
+sav <- read.csv("C:/Users/rwetz/Documents/GitHub/Forest_Inventory/Savannas/sav_trees_clumps_rw.csv")
+simple <- sav[c(6,7,10)]
+simple <- na.omit(simple)
+# sp <- split(simple, simple$ClumpID)
+
+# Calc sum by species
+sp.s <- simple %>%
+  group_by(Species, ClumpID) %>%
+  mutate(species_sum = sum(Number.of.trees))
+
+# Split df with sums into list by Tree Clump
+sp.r <- split(sp.s, sp.s$ClumpID)
+
+# Transpose?
+sp.df <- lapply(sp.r, function(x) {as.data.frame(x)})
+#sp.t <- lapply(sp.r, function(x) {as.data.frame(t(x))})
+
+# Calculate totals and Relative Frequency
+# Clump.total <- summarise(group_by(sav.na, ClumpID), sum_Clump_Trees = sum(Number.of.trees))
+sums <- lapply(sp.df, function(x) {cbind(x, sum(x$Number.of.trees))})
+RF <- lapply(sums, function(x){cbind(x, divide(x[4], x[5]))})
+
+# To do:
+  # Figure out how to de-list and add everything back together, clean up column names
+
+
+
+

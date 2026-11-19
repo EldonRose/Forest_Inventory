@@ -1,0 +1,638 @@
+,Date,Site.Name,Cluster.number,ClumpID,Family.Genus,Species,Number.of.trees,Invasive.code,Notes,Fire resistance Grade
+1,5/23/2025,HDD,1,HDD1,Red Oak,Red Oak Sp.,4,,,3
+2,5/23/2025,HDD,1,HDD1,White Oak,White Oak,1,,,4
+3,5/23/2025,HDD,1,HDD1,Maple,Maple Sp.,1,,,3
+4,5/23/2025,HDD,1,HDD1,Post Oak,Post Oak,2,,DBH <10 in x 1,4
+5,5/23/2025,HDD,1,HDD1,VA Pine,Virginia Pine,2,,"dying, ? On sheet",2
+6,5/23/2025,HDD,1,HDD1,Cherry,Black Cherry,3,,,2
+7,5/23/2025,HDD,1,HDD1,Tulip Poplar,Tulip Poplar,2,,,3
+8,5/23/2025,HDD,1,HDD1,Dogwood,Flowering Dogwood,3,,,3
+9,5/23/2025,HDD,1,HDD1,Juniper,Eastern Red Cedar,1,,,1
+10,5/23/2025,HDD,2,HDD2,Dogwood,Flowering Dogwood,2,,,3
+11,5/23/2025,HDD,2,HDD2,S. Red Oak,Southern Red Oak,1,,? On sheet,3
+12,5/23/2025,HDD,2,HDD2,Red Oak,Red Oak Sp.,1,,,3
+13,5/23/2025,HDD,2,HDD2,Hickory,Hickory Sp.,1,,,4
+14,5/23/2025,HDD,3,HDD3,Dogwood,Flowering Dogwood,3,,,3
+15,5/23/2025,HDD,3,HDD3,Juniper,Eastern Red Cedar,1,,,1
+16,5/23/2025,HDD,3,HDD3,Blackgum,Blackgum,3,,,4
+17,5/23/2025,HDD,3,HDD3,Tulip Poplar,Tulip Poplar,5,,,3
+18,5/23/2025,HDD,3,HDD3,Post Oak,Post Oak,1,,,4
+19,5/23/2025,HDD,4,HDD4,S. Red Oak,Southern Red Oak,1,,,3
+20,5/23/2025,HDD,4,HDD4,Tulip Poplar,Tulip Poplar,1,,,3
+21,5/23/2025,HDD,4,HDD4,Blackgum,Blackgum,1,,,4
+22,5/23/2025,HDD,4,HDD4,Juniper,Eastern Red Cedar,1,,,1
+23,5/23/2025,HDD,5,HDD5,Ailanthus,Ailanthus,26,,,1
+24,5/23/2025,HDD,5,HDD5,Cherry,Black Cherry,2,,,2
+25,5/23/2025,HDD,5,HDD5,Tulip Poplar,Tulip Poplar,2,,,3
+26,5/23/2025,HDD,5,HDD5,Sycamore,Sycamore,1,,,2
+27,5/23/2025,HDD,6,HDD6,Tulip Poplar,Tulip Poplar,1,,,3
+28,5/23/2025,HDD,6,HDD6,Hickory,Hickory Sp.,1,,,4
+29,5/23/2025,HDD,6,HDD6,Juniper,Eastern Red Cedar,1,,,1
+30,5/23/2025,HDD,6,HDD6,Dogwood,Flowering Dogwood,2,,,3
+31,5/23/2025,HDD,7,HDD7,Cherry,Black Cherry,1,,,2
+32,5/23/2025,HDD,7,HDD7,Ailanthus,Ailanthus,19,,,1
+33,5/23/2025,HDD,7,HDD7,Tulip Poplar,Tulip Poplar,1,,,3
+34,5/23/2025,HDD,7,HDD7,Sycamore,Sycamore,1,,,2
+35,5/23/2025,HDD,7,HDD7,Black Locust,Black Locust,1,,,4
+36,5/23/2025,HDD,7,HDD7,Cherry,Black Cherry,1,,,2
+37,5/23/2025,HDD,8,HDD8,Tulip Poplar,Tulip Poplar,1,,,3
+38,5/28/2025,101S,1,101S1,Black Cherry,Black Cherry,2,,,2
+39,5/28/2025,101S,2,101S2,Black Cherry,Black Cherry,1,BT,"dead, covered in bittersweet",2
+40,5/28/2025,101S,3,101S3,Ailanthus,Ailanthus,1,,,1
+41,5/28/2025,101S,4,101S4,Hawthorne,Green Hawthorn,1,BT,"dead, covered in bittersweet",3
+42,5/28/2025,101S,5,101S5,Ailanthus,Ailanthus,5,,,1
+43,5/28/2025,101S,6,101S6,Black Cherry,Black Cherry,3,,,2
+44,5/28/2025,101S,6,101S6,Hawthorne,Green Hawthorn,1,,,3
+45,5/28/2025,101S,6,101S6,Black Cherry,Black Cherry,1,,"missed cluster in mapping, added in in-field",2
+46,5/28/2025,101S,7,101S7,Black Cherry,Black Cherry,1,,dead,2
+47,5/28/2025,101S,8,101S8,Black Cherry,Black Cherry,2,,,2
+48,5/28/2025,101S,9,101S9,Black Cherry,Black Cherry,2,,,2
+49,5/28/2025,101S,10,101S10,Black Cherry,Black Cherry,2,BT,"1 dead, 1 dying, bittersweet",2
+50,5/28/2025,101S,11,101S11,Black Cherry,Black Cherry,1,,,2
+51,5/28/2025,101S,12,101S12,Black Cherry,Black Cherry,1,,,2
+52,5/28/2025,101S,13,101S13,Ailanthus,Ailanthus,3,,,1
+53,5/28/2025,101S,14,101S14,Ailanthus,Ailanthus,1,,big pile of brush,1
+54,5/28/2025,101S,15,101S15,Black Cherry,Black Cherry,1,,,2
+55,5/28/2025,101S,16,101S16,Black Cherry,Black Cherry,2,,,2
+56,5/28/2025,101S,17,101S17,Black Cherry,Black Cherry,1,,,2
+57,5/28/2025,101S,18,101S18,Hawthorne,Green Hawthorn,1,,,3
+58,5/28/2025,101S,19,101S19,Black Cherry,Black Cherry,1,,,2
+59,5/28/2025,101S,20,101S20,Hawthorne,Green Hawthorn,1,,,3
+60,5/28/2025,101S,21,101S21,Black Cherry,Black Cherry,1,,,2
+61,5/28/2025,101N,1,101N1,Black Cherry,Black Cherry,5,,,2
+62,5/28/2025,101N,1,101N1,Mulberry,Red Mulberry,1,,,3
+63,5/28/2025,101N,1,101N1,Red Oak,Red Oak Sp.,1,,,3
+64,5/28/2025,101N,1,101N1,Black Locust,Black Locust,1,,,4
+65,5/28/2025,101N,1,101N1,Chinese Privet,Chinese Privet,1,,? On sheet,1
+66,5/28/2025,101N,2,101N2,Black Cherry,Black Cherry,9,,1 really dead,2
+67,5/28/2025,101N,2,101N2,White Oak,White Oak,1,,,4
+68,5/28/2025,101N,2,101N2,Sassafras,Sassafras,4,,kinda small,2
+69,5/28/2025,101N,2,101N2,Black Walnut,Black Walnut,1,,,3
+70,5/28/2025,101N,3,101N3,Black Walnut,Black Walnut,2,,,3
+71,5/28/2025,101N,4,101N4,Black Locust,Black Locust,5,,,4
+72,5/28/2025,101N,5,101N5,Ailanthus,Ailanthus,4,,,1
+73,5/28/2025,101N,6,101N6,Ailanthus,Ailanthus,1,,very large,1
+74,5/28/2025,101N,7,101N7,Ailanthus,Ailanthus,3,BT,lots of bittersweet,1
+75,5/28/2025,101N,7,101N7,Black Cherry,Black Cherry,2,BT,lots of bittersweet,2
+76,5/28/2025,101N,8,101N8,Black Cherry,Black Cherry,6,,,2
+77,5/28/2025,101N,8,101N8,Sassafras,Sassafras,6,,,2
+78,5/28/2025,101N,9,101N9,Sassafras,Sassafras,4,,,2
+79,5/28/2025,101N,9,101N9,Black Cherry,Black Cherry,2,,,2
+80,5/28/2025,101N,9,101N9,Black Locust,Black Locust,2,,,4
+81,5/28/2025,101N,10,101N10,Black Cherry,Black Cherry,3,BT,"2 fell over but is still alive, lots of bittersweet",2
+82,5/28/2025,101N,11,101N11,Black Cherry,Black Cherry,1,,,2
+83,5/28/2025,101F,1,101F1,Black Cherry,Black Cherry,1,,,2
+84,5/28/2025,101F,2,101F2,Black Cherry,Black Cherry,1,,,2
+85,5/28/2025,101F,3,101F3,Black Cherry,Black Cherry,1,,,2
+86,5/28/2025,101F,4,101F4,Black Cherry,Black Cherry,1,,,2
+87,5/28/2025,101F,5,101F5,Black Cherry,Black Cherry,1,AO,Autumn olive,2
+88,5/28/2025,101F,6,101F6,UNKNOWN,UNKNOWN TREE,1,,,—
+89,5/28/2025,101F,7,101F7,Black Cherry,Black Cherry,1,,,2
+90,5/28/2025,101F,7,101F7,UNKNOWN,UNKNOWN TREE,1,BT,"dead, mile a minute and bittersweet",—
+91,5/28/2025,101F,8,101F8,Black Cherry,Black Cherry,1,,,2
+92,5/28/2025,101F,9,101F9,Black Cherry,Black Cherry,1,,,2
+93,5/28/2025,101F,10,101F10,Maple,Maple Sp.,1,,dead,3
+94,5/28/2025,101F,11,101F11,Chinese Privet,Chinese Privet,1,,,1
+95,5/28/2025,101F,11,101F11,Black Cherry,Black Cherry,1,,,2
+96,5/28/2025,101F,12,101F12,Black Locust,Black Locust,1,,,4
+97,5/28/2025,101F,12,101F12,Black Cherry,Black Cherry,1,,,2
+98,5/28/2025,101F,12,101F12,Mulberry,Red Mulberry,1,,,3
+99,5/28/2025,101F,13,101F13,N/A,N/A,1,,,—
+100,5/28/2025,101F,14,101F14,Black Cherry,Black Cherry,1,,"one dead, one alive",2
+101,5/28/2025,101F,15,101F15,Black Cherry,Black Cherry,1,,,2
+102,5/28/2025,101F,16,101F16,Black Cherry,Black Cherry,1,,,2
+103,5/28/2025,101F,17,101F17,Black locust,Black Locust,1,,,4
+104,5/28/2025,101F,18,101F18,Sassafras,Sassafras,1,,,2
+105,5/28/2025,101F,18,101F18,dogwood,Flowering Dogwood,1,,,3
+106,5/28/2025,101F,18,101F18,Black Cherry,Black Cherry,1,,,2
+107,5/28/2025,101F,19,101F19,Black Cherry,Black Cherry,1,,,2
+108,5/28/2025,101F,20,101F20,Mulberry,Red Mulberry,1,,,3
+109,5/28/2025,101F,21,101F21,UNKNOWN,UNKNOWN TREE,1,,,—
+110,6/2/2025,153,1,1531,Ailanthus,Ailanthus,2,,,1
+111,6/2/2025,153,1,1531,Maple,Maple Sp.,1,,,3
+112,6/2/2025,153,1,1531,Black Cherry,Black Cherry,2,,,2
+113,6/2/2025,153,2,1532,Dogwood,Flowering Dogwood,1,,,3
+114,6/2/2025,153,2,1532,Canada Plum,Prunus Sp.,1,,,3
+115,6/2/2025,153,2,1532,Maple,Maple Sp.,1,,,3
+116,6/2/2025,153,2,1532,Black Cherry,Black Cherry,1,,,2
+117,6/2/2025,153,3,1533,VA Pine,Virginia Pine,2,,,2
+118,6/2/2025,153,3,1533,Black Cherry,Black Cherry,1,,,2
+119,6/2/2025,153,3,1533,Mulberry,Red Mulberry,1,,,3
+120,6/2/2025,153,4,1534,Dogwood,Flowering Dogwood,3,,,3
+121,6/2/2025,153,4,1534,VA Pine,Virginia Pine,2,,,2
+122,6/2/2025,153,4,1534,White Oak,White Oak,1,,,4
+123,6/2/2025,153,5,1535,Juniper,Eastern Red Cedar,1,,,1
+124,6/2/2025,153,5,1535,Blackgum,Blackgum,1,,,4
+125,6/2/2025,153,6,1536,Juniper,Eastern Red Cedar,1,,,1
+126,6/2/2025,153,7,1537,Dogwood,Flowering Dogwood,1,,,3
+127,6/2/2025,153,7,1537,Blackgum,Blackgum,3,,,4
+128,6/2/2025,153,7,1537,Black Cherry,Black Cherry,5,,,2
+129,6/2/2025,153,8,1538,Juniper,Eastern Red Cedar,1,,,1
+130,6/2/2025,153,9,1539,Juniper,Eastern Red Cedar,3,,,1
+131,6/2/2025,153,10,15310,Juniper,Eastern Red Cedar,1,,,1
+132,6/2/2025,153,11,15311,Juniper,Eastern Red Cedar,1,,,1
+133,6/2/2025,153,12,15312,Black Cherry,Black Cherry,3,,,2
+134,6/2/2025,153,12,15312,Maple,Maple Sp.,4,,,3
+135,6/2/2025,153,12,15312,Juniper,Eastern Red Cedar,1,,,1
+136,6/13/2025,112B,1,112B1,Osage orange,Osage Orange,9,"MR,BT",,2
+137,6/13/2025,112B,1,112B1,Ailanthus,Ailanthus,11,MR,,1
+138,6/13/2025,112B,1,112B1,Black Cherry,Black Cherry,6,MR,,2
+139,6/13/2025,112B,1,112B1,Blackgum,Blackgum,1,MR,,4
+140,6/13/2025,112B,2,112B2,Ailanthus,Ailanthus,1,MR,,1
+141,6/13/2025,112B,3,112B3,Black Cherry,Black Cherry,1,MR,,2
+142,6/13/2025,112B,4,112B4,Osage orange,Osage Orange,1,"MR,BT",,2
+143,6/13/2025,112B,4,112B4,Cherry,Black Cherry,1,MR,,2
+144,6/13/2025,112B,5,112B5,Cherry,Black Cherry,1,MR,,2
+145,6/13/2025,112B,5,112B5,Blackgum,Blackgum,1,MR,,4
+146,6/13/2025,112B,6,112B6,Ailanthus,Ailanthus,1,MR,,1
+147,6/13/2025,112B,7,112B7,Black Cherry,Black Cherry,1,MR,,2
+148,6/13/2025,112B,8,112B8,Osage orange,Osage Orange,1,MR,,2
+149,6/13/2025,112B,9,112B9,Cherry,Black Cherry,1,MR,,2
+150,6/13/2025,112B,10,112B10,Blackgum,Blackgum ,1,MR,,4
+151,6/13/2025,112B,11,112B11,Maple,Maple Sp.,1,MR,,3
+152,6/13/2025,112B,12,112B12,Osage orange,Osage Orange,1,MR,,2
+153,6/13/2025,112B,13,112B13,Maple,Maple Sp.,1,MR,,3
+154,6/13/2025,112B,14,112B14,Black Cherry,Black Cherry,1,MR,,2
+155,6/13/2025,112B,15,112B15,Black Cherry,Black Cherry,8,"MR,BT,AO",,2
+156,6/13/2025,112B,15,112B15,Blackgum,Blackgum,3,MR,,4
+157,6/13/2025,112B,15,112B15,Princess tree,Princess Tree,3,MR,,1
+158,6/13/2025,112B,15,112B15,Osage orange,Osage Orange,4,MR,,2
+159,6/13/2025,112B,15,112B15,Tulip Poplar,Tulip Poplar,2,MR,,3
+160,6/13/2025,112B,15,112B15,Maple,Maple Sp.,1,MR,,3
+161,6/13/2025,112B,15,112B15,Maple,Maple Sp.,1,MR,,3
+162,6/13/2025,112B,16,112B16,Tulip Poplar,Tulip Poplar,1,MR,,3
+163,6/13/2025,112B,16,112B16,Cherry,Black Cherry,1,MR,,2
+164,6/13/2025,112B,17,112B17,N/A,N/A,NA,,,—
+165,6/13/2025,112B,18,112B18,Cherry,Black Cherry,1,MR,,2
+166,6/13/2025,112B,18,112B18,Blackgum,Blackgum,2,MR,,4
+167,6/13/2025,112B,18,112B18,Osage orange,Osage Orange,1,MR,,2
+168,6/13/2025,112B,18,112B18,Am. Persimmon,Am. Persimmon,6,MR,,3
+169,6/13/2025,112B,19,112B19,Black Cherry,Black Cherry,1,MR,,2
+170,6/13/2025,112B,19,112B19,Osage orange,Osage Orange,1,MR,,2
+171,6/13/2025,112B,20,112B20,Dogwood,Flowering Dogwood,1,MR,,3
+172,6/13/2025,112B,21,112B21,Sassafras,Sassafras,1,"MR,BT",,2
+173,6/13/2025,112B,21,112B21,Black Cherry,Black Cherry,5,MR,,2
+174,6/13/2025,112B,21,112B21,Ailanthus,Ailanthus,7,MR,,1
+175,6/13/2025,112B,21,112B21,Mulberry,Red Mulberry,1,MR,,3
+176,6/13/2025,112B,22,112B22,Osage orange,Osage Orange,2,MR,,2
+177,6/13/2025,112B,22,112B22,Black Cherry,Black Cherry,5,MR,,2
+178,6/13/2025,112B,22,112B22,Am. Persimmon,Am. Persimmon,1,MR,,3
+179,6/13/2025,112B,23,112B23,Ailanthus,Ailanthus,1,MR,,1
+180,6/13/2025,112B,24,112B24,Black Cherry,Black Cherry,3,MR,,2
+181,6/13/2025,112B,25,112B25,Black Cherry,Black Cherry,1,MR,,2
+182,6/13/2025,112B,25,112B25,Dogwood,Flowering Dogwood,1,MR,,3
+183,6/17/2025,158,1,1581,Black Locust,Black Locust,3,,,4
+184,6/17/2025,158,1,1581,Ailanthus,Ailanthus,4,,,1
+185,6/17/2025,158,1,1581,Black Walnut,Black Walnut,10,,,3
+186,6/17/2025,158,1,1581,Black Cherry,Black Cherry,2,,,2
+187,6/17/2025,158,1,1581,Hawthorne,Green Hawthorn,1,,,3
+188,6/17/2025,158,2,1582,Hawthorne,Green Hawthorn,1,,,3
+189,6/17/2025,158,3,1583,Black Cherry,Black Cherry,1,AO,,2
+190,6/17/2025,158,4,1584,Am. Persimmon,Am. Persimmon,1,,,3
+191,6/17/2025,158,4,1584,Hawthorne,Green Hawthorn,1,,,3
+192,6/17/2025,158,5,1585,Blackhaw,Blackhaw,1,,,3
+193,6/17/2025,158,6,1586,Black Walnut,Black Walnut,1,,,3
+194,6/17/2025,158,6,1586,Am. Persimmon,Am. Persimmon,3,,,3
+195,6/17/2025,158,7,1587,Black Cherry,Black Cherry,1,,,2
+196,6/17/2025,158,8,1588,Am. Persimmon,Am. Persimmon,1,,,3
+197,6/17/2025,158,9,1589,Am. Persimmon,Am. Persimmon,1,,,3
+198,6/17/2025,158,10,15810,Ailanthus,Ailanthus,1,,,1
+199,6/17/2025,158,11,15811,Sycamore,Sycamore,2,AO,,2
+200,6/17/2025,158,12,15812,Princess Tree,Princess Tree,1,,,1
+201,6/17/2025,158,12,15812,Mulberry,Red Mulberry,1,,,3
+202,6/17/2025,158,13,15813,Mulberry,Red Mulberry,1,,,3
+203,6/17/2025,158,13,15813,Black Cherry,Black Cherry,1,,,2
+204,6/17/2025,133,1,1331,Black Cherry,Black Cherry,1,,,2
+205,6/17/2025,133,1,1331,Dogwood,Flowering Dogwood,1,,,3
+206,6/17/2025,133,1,1331,Am. Persimmon,Am. Persimmon,1,,,3
+207,6/17/2025,133,2,1332,Ailanthus,Ailanthus,1,AO,,1
+208,6/17/2025,133,2,1332,Black Cherry,Black Cherry,2,BT,,2
+209,6/17/2025,133,2,1332,Sassafras,Sassafras,1,,,2
+210,6/17/2025,133,3,1333,Am. Persimmon,Am. Persimmon,2,BT,,3
+211,6/17/2025,133,3,1333,Juniper,Eastern Red Cedar,1,,,1
+212,6/17/2025,133,4,1334,Dogwood,Flowering Dogwood,4,AO,,3
+213,6/17/2025,133,4,1334,Black Cherry,Black Cherry,1,,,2
+214,6/17/2025,133,4,1334,Maple,Maple Sp.,17,,,3
+215,6/17/2025,133,4,1334,Tulip poplar,Tulip Poplar,1,,,3
+216,6/17/2025,133,5,1335,Am. Persimmon,Am. Persimmon,1,"BT,MR",,3
+217,6/17/2025,133,6,1336,Blackhaw,Blackhaw,1,,,3
+218,6/17/2025,133,6,1336,Dogwood,Flowering Dogwood,1,,,3
+219,6/17/2025,133,6,1336,Black Cherry,Black Cherry,1,,,2
+220,6/17/2025,133,6,1336,Maple,Maple Sp.,1,,,3
+221,6/17/2025,133,6,1336,Am. Persimmon,Am. Persimmon,1,,,3
+222,6/17/2025,133,7,1337,N/A,N/A,NA,,,—
+223,6/17/2025,133,8,1338,Ailanthus,Ailanthus,9,,,1
+224,6/17/2025,133,8,1338,White Mulberry,White Mulberry,1,,,3
+225,6/17/2025,133,8,1338,Black Cherry,Black Cherry,1,,,2
+226,6/17/2025,133,8,1338,Sycamore,Am. Sycamore,1,,,2
+227,6/17/2025,133,9,1339,Black Cherry,Black Cherry,1,BT,,2
+228,6/17/2025,133,10,13310,Juniper,Eastern Red Cedar,1,BT,,1
+229,6/17/2025,133,11,13311,Dogwood,Flowering Dogwood,2,,,3
+230,6/17/2025,133,12,13312,Black Cherry,Black Cherry,3,BT,,2
+231,6/17/2025,133,12,13312,Dogwood,Flowering Dogwood,3,,,3
+232,6/17/2025,133,12,13312,Am. Persimmon,Am. Persimmon,1,,,3
+233,6/17/2025,133,13,13313,Dogwood,Flowering Dogwood,1,AO,,3
+234,6/17/2025,133,13,13313,Black Cherry,Black Cherry,1,,,2
+235,6/17/2025,133,14,13314,Dogwood,Flowering Dogwood,1,AO,,3
+236,6/17/2025,133,15,13315,Dogwood,Flowering Dogwood,1,"BT,AO",,3
+237,6/17/2025,133,16,13316,Black Cherry,Black Cherry,1,,,2
+238,6/17/2025,133,17,13317,Ailanthus,Ailanthus,1,,,1
+239,6/17/2025,133,17,13317,Am. Persimmon,Am. Persimmon,4,,,3
+240,6/17/2025,133,18,13318,N/A,N/A,NA,,,—
+241,6/17/2025,133,19,13319,Black Cherry,Black Cherry,1,,,2
+242,6/17/2025,133,20,13320,Dogwood,Flowering Dogwood,2,AO,,3
+243,6/17/2025,133,21,13321,N/A,N/A,NA,,,—
+244,6/17/2025,133,22,13322,Juniper,Eastern Red Cedar,1,,,1
+245,6/17/2025,133,23,13323,Ailanthus,Ailanthus,4,BT,,1
+246,6/17/2025,133,23,13323,Blackhaw,Black Haw,2,,,3
+247,6/17/2025,133,23,13323,Sassafras,Sassafras,1,,,2
+248,6/17/2025,133,24,13324,Red Oak,Red Oak Sp.,1,,,3
+249,6/17/2025,133,25,13325,N/A,N/A,NA,,,—
+250,6/17/2025,133,26,13326,Ailanthus,Ailanthus,1,MR,,1
+251,6/17/2025,133,27,13327,N/A,N/A,NA,,,—
+252,6/17/2025,133,28,13328,Hawthorne,Green Hawthorn,1,,,3
+253,6/17/2025,133,29,13329,Hawthorne,Green Hawthorn,1,AO,,3
+254,6/17/2025,133,29,13329,Black Cherry,Black Cherry,3,,,2
+255,6/17/2025,133,29,13329,Dogwood,Flowering Dogwood,2,,,3
+256,6/17/2025,133,30,13330,Black Cherry,Black Cherry,1,,,2
+257,6/17/2025,133,30,13330,Dogwood,Flowering Dogwood,1,,,3
+258,6/17/2025,133,31,13331,N/A,N/A,NA,,,—
+259,6/17/2025,133,32,13332,N/A,N/A,NA,,,—
+260,6/17/2025,133,33,13333,Black Cherry,Black Cherry,1,,,2
+261,6/17/2025,133,34,13334,Hawthorne,Green Hawthorn,1,,,3
+262,6/17/2025,133,35,13335,Hawthorne,Green Hawthorn,1,,,3
+263,6/17/2025,133,36,13336,Black Cherry,Black Cherry,1,,,2
+264,6/17/2025,133,36,13336,Maple,Maple Sp.,1,,,3
+265,6/17/2025,133,37,13337,Ailanthus,Ailanthus,4,,,1
+266,6/17/2025,133,37,13337,Maple,Maple Sp.,1,,,3
+267,6/17/2025,133,37,13337,Hickory,Hickory Sp.,1,,,4
+268,6/17/2025,133,38,13338,Cherry,Black Cherry,1,,,2
+269,6/17/2025,133,39,13339,Hickory,Hickory Sp.,1,,,4
+270,6/17/2025,133,40,13340,N/A,N/A,NA,,,—
+271,6/17/2025,133,41,13341,Overgrown?,Overgrown?,1,,,—
+272,6/17/2025,133,42,13342,Red Oak,Red Oak Sp.,1,AO,,3
+273,6/17/2025,133,42,13342,Ailanthus,Ailanthus,2,,,1
+274,6/17/2025,133,42,13342,Mulberry,Red Mulberry,1,,,3
+275,6/17/2025,133,43,13343,Tulip Poplar,Tulip Poplar,1,,,3
+276,6/17/2025,133,43,13343,Black Cherry,Black Cherry,1,,,2
+277,6/17/2025,133,43,13343,Ailanthus,Ailanthus,1,,,1
+278,6/17/2025,133,44,13344,Princess Tree,Princess Tree,1,,,1
+279,6/17/2025,133,45,13345,Black Locust,Black Locust,1,,,4
+280,6/25/2025,134D,1,134D1,Blackgum,Blackgum,2,"BT,MR,AO",,4
+281,6/25/2025,134D,2,134D2,Maple,Maple Sp.,2,,,3
+282,6/25/2025,134D,3,134D3,Ailanthus,Ailanthus,9,BT,,1
+283,6/25/2025,134D,4,134D4,Dogwood,Flowering Dogwood,1,,,3
+284,6/25/2025,134D,4,134D4,Maple,Maple Sp.,2,,,3
+285,6/25/2025,134D,5,134D5,Ailanthus,Ailanthus,11,,,1
+286,6/25/2025,134D,5,134D5,Maple,Maple Sp.,1,,,3
+287,6/25/2025,134D,5,134D5,Black Cherry,Black Cherry,8,,,2
+288,6/25/2025,134D,5,134D5,Dogwood,Flowering Dogwood,1,,,3
+289,6/25/2025,134D,5,134D5,Black Locust,Black Locust,3,,,4
+290,6/25/2025,134D,5,134D5,Sassafras,Sassafras,1,,,2
+291,6/25/2025,134D,5,134D5,Blackgum,Blackgum,1,,,4
+292,6/25/2025,134D,6,134D6,Black Cherry,Black Cherry,1,,,2
+293,6/25/2025,134D,6,134D6,Maple,Maple Sp.,1,,,3
+294,6/25/2025,134D,6,134D6,Dogwood,Flowering Dogwood,1,,,3
+295,6/25/2025,134D,7,134D7,Tulip poplar,Tulip Poplar,1,"AO,BT",,3
+296,6/25/2025,134D,8,134D8,Maple (Dead),Maple (Dead),1,,,1
+297,6/25/2025,134D,8,134D8,Dogwood,Flowering Dogwood,1,,,3
+298,6/25/2025,134D,9,134D9,Am. Persimmon,Am. Persimmon,1,,,3
+299,6/25/2025,134D,10,134D10,Dogwood,Flowering Dogwood,3,"AO,MR",,3
+300,6/25/2025,134D,10,134D10,Maple,Maple Sp.,3,"AO,MR",,3
+301,6/25/2025,134D,10,134D10,Am. Persimmon,Am. Persimmon,8,"AO,MR",,3
+302,6/25/2025,134D,10,134D10,Tulip poplar,Tulip Poplar,1,"AO,MR",,3
+303,6/25/2025,134D,10,134D10,Black Cherry,Black Cherry,6,"AO,MR",,2
+304,6/25/2025,134D,10,134D10,Blackgum,Blackgum,6,"AO,MR",,4
+305,6/25/2025,134D,10,134D10,Ailanthus,Ailanthus,1,"AO,MR",,1
+306,6/25/2025,134A,1,134A1,Hawthorne,Green Hawthorn,1,,,3
+307,6/25/2025,134A,2,134A2,Am. Persimmon,Am. Persimmon,1,Vines,,3
+308,6/25/2025,134A,3,134A3,Ailanthus,Ailanthus,1,,,1
+309,6/25/2025,134A,4,134A4,Dogwood,Flowering Dogwood,1,AO,,3
+310,6/25/2025,134A,4,134A4,Black Cherry,Black Cherry,1,MR,,2
+311,6/25/2025,134A,4,134A4,White Mulberry,White Mulberry,1,,,3
+312,6/25/2025,134A,5,134A5,Black Cherry,Black Cherry,1,,,2
+313,6/25/2025,134A,6,134A6,Dogwood,Flowering Dogwood,2,,,3
+314,6/25/2025,134A,6,134A6,Black Cherry,Black Cherry,1,"AO,MR",,2
+315,6/25/2025,134A,7,134A7,Dead,Dead ,1,BT,Killed by bittersweet,1
+316,6/25/2025,134A,8,134A8,VA Pine,Virginia Pine,1,"AI,AO",,2
+317,6/25/2025,134A,9,134A9,Dead,Dead ,1,,,1
+318,6/25/2025,134A,10,134A10,Dogwood,Flowering Dogwood,1,,,3
+319,6/25/2025,134A,10,134A10,Black Cherry,Black Cherry,1,,,2
+320,6/25/2025,134A,10,134A10,Blackgum,Blackgum,3,"AO,BT",,4
+321,6/25/2025,134A,11,134A11,Dogwood,Flowering Dogwood,3,BT,Killed by bittersweet,3
+322,6/25/2025,134A,11,134A11,Ailanthus,Ailanthus,3,,,1
+323,6/25/2025,134A,11,134A11,Black Cherry,Black Cherry,2,,,2
+324,6/25/2025,134A,11,134A11,Am. Persimmon,Am. Persimmon,7,,,3
+325,6/25/2025,134A,12,134A12,Dead,Dead,1,"BT,AO",,1
+326,6/25/2025,134A,13,134A13,Am. Persimmon,Am. Persimmon,1,,,3
+327,6/25/2025,134A,14,134A14,Ailanthus,Ailanthus,3,"MR,BT",,1
+328,6/25/2025,134A,14,134A14,Am. Persimmon,Am. Persimmon,2,"MR,BT",,3
+329,6/25/2025,134A,14,134A14,Hawthorne,Green Hawthorn,1,"MR,BT",,3
+330,6/25/2025,134A,15,134A15,N/A,N/A,NA,,,—
+331,6/25/2025,134A,16,134A16,Hawthorne,Green Hawthorn,1,,,3
+332,6/25/2025,134A,17,134A17,Dogwood,Flowering Dogwood,1,AO,,3
+333,6/25/2025,134A,17,134A17,Am. Persimmon,Am. Persimmon,1,AO,,3
+334,6/25/2025,134A,18,134A18,Dogwood,Flowering Dogwood,5,,,3
+335,6/25/2025,134A,18,134A18,Cherry,Cherry ,3,BT,BT high impact,2
+336,6/25/2025,134A,18,134A18,Maple,Maple Sp.,1,,,3
+337,6/25/2025,134A,18,134A18,Blackgum,Blackgum,3,,,4
+338,6/25/2025,134A,18,134A18,Black Cherry,Black Cherry,2,,,2
+339,6/25/2025,134A,19,134A19,Black Oak,Black Oak,1,"MR,AO",,3
+340,6/25/2025,134A,19,134A19,Juniper,Eastern Red Cedar,1,"MR,AO",,1
+341,6/25/2025,134A,20,134A20,Blackgum,Blackgum,1,AO,,4
+342,6/25/2025,134A,21,134A21,Juniper,Eastern Red Cedar,1,"AO,BT",,1
+343,6/25/2025,134A,22,134A22,White Oak,White Oak,1,AO,,4
+344,6/25/2025,134A,22,134A22,Blackgum,Blackgum,2,,,4
+345,6/25/2025,134A,23,134A23,Black Cherry,Black Cherry,1,,,2
+346,6/25/2025,134A,23,134A23,Dogwood,Flowering Dogwood,1,BT,BT Strangling ,3
+347,6/25/2025,134A,24,134A24,Sycamore,Sycamore,1,,,2
+348,6/25/2025,134A,24,134A24,Am. Persimmon,Am. Persimmon,1,,,3
+349,6/25/2025,134A,25,134A25,N/A,N/A,NA,,Part of Riperian,—
+350,6/25/2025,134A,26,134A26,N/A,N/A,NA,,Part of Riperian,—
+351,6/25/2025,134A,27,134A27,Black Cherry,Black Cherry,2,"MR,BT",,2
+352,6/25/2025,134A,27,134A27,Mulberry,Red Mulberry,2,"MT,BT",,3
+353,6/25/2025,134A,27,134A27,Dogwood,Flowering Dogwood,2,"MT,BT",,3
+354,6/25/2025,134A,27,134A27,Maple,Maple Sp.,6,"MT,BT",,3
+355,6/25/2025,134A,27,134A27,Juniper,Eastern Red Cedar,1,,,1
+356,6/25/2025,134A,27,134A27,Ailanthus,Ailanthus,1,,,1
+357,6/25/2025,134A,28,134A28,Sweet Cherry?,Sweet Cherry?,1,"MR,BT,AO",,2
+358,6/25/2025,134A,28,134A28,Am. Persimmon,Am. Persimmon,2,"MR,BT,AO",,3
+359,6/25/2025,134A,29/30,134A29/30,Dogwood,Flowering Dogwood,1,"MR,AO",,3
+360,6/25/2025,134A,29/30,134A29/30,Maple,Maple Sp.,1,"MR,AO",,3
+361,6/25/2025,134A,31,134A31,Ailanthus,Ailanthus,4,"BT,AO",,1
+362,6/25/2025,134A,31,134A31,Mulberry,Red Mulberry,1,"BT,AO",,3
+363,6/25/2025,134A,32,134A32,Ailanthus,Ailanthus,1,,,1
+364,6/25/2025,134A,33,134A33,Ailanthus,Ailanthus,5,"MR,BT",,1
+365,6/25/2025,134A,34/35,134A34/35,Dogwood,Flowering Dogwood,1,,,3
+366,6/25/2025,134A,34/35,134A34/35,Maple,Maple Sp.,1,,,3
+367,6/25/2025,134A,34/35,134A34/35,Blackgum,Blackgum,1,,,4
+368,6/25/2025,134A,34/35,134A34/35,Ailanthus,Ailanthus,6,,,1
+369,6/25/2025,134A,34/35,134A34/35,Black Cherry,Black Cherry,1,,,2
+370,6/25/2025,134A,36,134A36,Maple,Maple Sp.,1,,,3
+371,6/25/2025,134A,37,134A37,Am. Persimmon,Am. Persimmon,1,MR,,3
+372,6/25/2025,134A,37,134A37,Maple,Maple Sp.,2,MR,,3
+373,6/25/2025,134A,38,134A38,White Oak,White Oak,1,,,4
+374,6/25/2025,134B,1,134B1,Black Cherry,Black Cherry,1,,,2
+375,6/25/2025,134B,2,134B2,Blackgum,Blackgum,2,,,4
+376,6/25/2025,134B,2,134B2,Black Cherry,Black Cherry,3,,,2
+377,6/25/2025,134B,2,134B2,Maple,Maple Sp.,3,MR,,3
+378,6/25/2025,134B,2,134B2,Dogwood,Flowering Dogwood,1,BT,,3
+379,6/25/2025,134B,3,134B3,Dogwood,Flowering Dogwood,1,,,3
+380,6/25/2025,134B,3,134B3,Maple,Maple Sp.,5,AO,,3
+381,6/25/2025,134B,4,134B4,Maple,Maple Sp.,3,,,3
+382,6/25/2025,134B,5,134B5,Dogwood,Flowering Dogwood,1,"MR,BT",,3
+383,6/25/2025,134B,5,134B5,Black Walnut,Black Walnut,1,"MR,BT",,3
+384,6/25/2025,134B,5,134B5,Black Cherry,Black Cherry,3,"MR,BT",,2
+385,6/25/2025,134B,5,134B5,Blackgum,Blackgum,6,"MR,BT",,4
+386,6/25/2025,134B,5,134B5,Sassafras,Sassafras,1,"MR,BT",,2
+387,6/25/2025,134B,5,134B5,Ailanthus,Ailanthus,3,"MR,BT",,1
+388,6/25/2025,134B,5,134B5,Black Oak,Black Oak,1,"MR,BT",,3
+389,6/25/2025,134B,5,134B5,Maple,Maple Sp.,1,"MR,BT",,3
+390,6/25/2025,134B,6,134B6,Ailanthus,Ailanthus,6,"MR,BT",,1
+391,6/25/2025,134B,6,134B6,Maple,Maple Sp.,6,"MR,BT",,3
+392,6/25/2025,134B,6,134B6,Am. Persimmon,Am. Persimmon,1,"MR,BT",,3
+393,6/25/2025,134B,7,134B7,Maple,Maple Sp.,11,"BT,AO",,3
+394,6/25/2025,134B,7,134B7,Am. Persimmon,Am. Persimmon,1,,,3
+395,6/25/2025,134B,7,134B7,Tulip poplar,Tulip Poplar,1,,,3
+396,6/25/2025,134B,7,134B7,Blackgum,Blackgum,6,,,4
+397,6/25/2025,134B,7,134B7,Black Cherry,Black Cherry,1,,,2
+398,6/25/2025,134B,7,134B7,Red Oak,Red Oak Sp.,1,,,3
+399,6/25/2025,134B,8,134B8,Blackgum,Blackgum,2,"AO,MR",,4
+400,6/25/2025,134B,8,134B8,Maple,Maple Sp.,1,,,3
+401,6/25/2025,134B,8,134B8,Dogwood,Flowering Dogwood,1,,,3
+402,6/25/2025,134B,8,134B8,Ailanthus,Ailanthus,1,,,1
+403,6/25/2025,134B,8,134B8,Black Oak,Black Oak,1,AO,,3
+404,6/25/2025,134B,9,134B9,Juniper,Eastern Red Cedar,1,,,1
+405,6/25/2025,134B,9,134B9,Dogwood,Flowering Dogwood,1,,,3
+406,6/25/2025,134B,9,134B9,Maple,Maple Sp.,1,,,3
+407,6/25/2025,134B,10,134B10,Maple,Maple Sp.,4,"AO,MR",,3
+408,6/25/2025,134B,11,134B11,Maple,Maple Sp.,3,,,3
+409,6/25/2025,134B,12,134B12,Maple,Maple Sp.,2,,,3
+410,6/25/2025,134B,12,134B12,Dogwood,Flowering Dogwood,2,,,3
+411,6/25/2025,134B,12,134B12,Black Cherry,Black Cherry,2,,,2
+412,6/25/2025,134B,12,134B12,Blackgum,Blackgum,1,,,4
+413,6/25/2025,134B,13,134B13,Black Cherry,Black Cherry,1,,,2
+414,6/25/2025,134B,14,134B14,Juniper,Eastern Red Cedar,2,"AO,MR,BT",,1
+415,6/25/2025,134B,14,134B14,Maple,Maple Sp.,2,"AO,MR,BT",,3
+416,6/25/2025,134B,14,134B14,Sycamore,Sycamore,1,"AO,MR.BT",,2
+417,6/25/2025,134B,14,134B14,Black Cherry,Black Cherry,1,BT,,2
+418,6/27/2025,134C,1,134C1,N/A,N/A,NA,,,—
+419,6/27/2025,134C,2,134C2,N/A,N/A,NA,,,—
+420,6/27/2025,134C,3,134C3,Black Cherry,Black Cherry,3,,,2
+421,6/27/2025,134C,4,134C4,Maple,Maple Sp.,1,,,3
+422,6/27/2025,134C,5,134C5,Ailanthus,Ailanthus,1,,,1
+423,6/27/2025,134C,5,134C5,Black Oak,Black Oak,1,,,3
+424,6/27/2025,134C,5,134C5,Locust,Black Locust,1,BT,,4
+425,6/27/2025,134C,6,134C6,Maple,Maple Sp.,1,,,3
+426,6/27/2025,134C,7,134C7,Maple,Maple Sp.,1,,,3
+427,6/27/2025,134C,8,134C8,Maple,Maple Sp.,1,,,3
+428,6/27/2025,134C,9,134C9,Maple,Maple Sp.,1,,,3
+429,6/27/2025,134C,10,134C10,Maple,Maple Sp.,1,,,3
+430,6/27/2025,134C,11,134C11,Maple,Maple Sp.,2,,,3
+431,6/27/2025,134C,11,134C11,White Oak,White Oak,2,,,4
+432,6/27/2025,134C,11,134C11,Tulip poplar,Tulip Poplar,1,,,3
+433,6/27/2025,134C,12,134C12,Ailanthus,Ailanthus,2,,,1
+434,6/27/2025,134C,12,134C12,Black Cherry,Black Cherry,1,,,2
+435,6/27/2025,134C,12,134C12,Black Walnut,Black Walnut,1,,,3
+436,6/27/2025,134C,12,134C12,Dogwood,Flowering Dogwood,1,,,3
+437,6/27/2025,134C,12,134C12,maple,maple,1,"MR, BT",,3
+438,6/27/2025,134C,13,134C13,Black Cherry,Black Cherry,4,,,2
+439,6/27/2025,134C,13,134C13,Maple,Maple Sp.,2,,,3
+440,6/27/2025,134C,13,134C13,Tulip poplar,Tulip Poplar,1,,,3
+441,6/27/2025,134C,14,134C14,Tulip Poplar,Tulip Poplar,1,,,3
+442,6/27/2025,134C,15,134C15,Maple,Maple Sp.,1,AO,,3
+443,6/27/2025,134C,16,134C16,Tulip poplar,Tulip Poplar,1,,,3
+444,6/27/2025,134C,17,134C17,Hawthorne,Green Hawthorn,1,,,3
+445,6/27/2025,134C,17,134C17,Ailanthus,Ailanthus,1,,,1
+446,6/27/2025,167,1,1671,Black Cherry,Black Cherry,2,,,2
+447,6/27/2025,167,1,1671,Black Walnut,Black Walnut,2,,,3
+448,6/27/2025,167,2,1672,Black Cherry,Black Cherry,1,,,2
+449,6/27/2025,167,3,1673,Unknown,Unknown,1,MR,,—
+450,6/27/2025,167,3,1673,Black Cherry,Black Cherry,1,,,2
+451,6/27/2025,167,3,1673,Ailanthus,Ailanthus,1,,,1
+452,6/27/2025,167,4,1674,N/A,N/A,NA,,,—
+453,6/27/2025,167,5,1675,Black Cherry,Black Cherry,1,,,2
+454,6/27/2025,167,6,1676,Black Cherry,Black Cherry,7,,,2
+455,6/27/2025,167,6,1676,Black Walnut,Black Walnut,4,,,3
+456,6/27/2025,167,7,1677,Black Cherry,Black Cherry,4,BT,,2
+457,6/27/2025,167,8,1678,Juniper,Eastern Red Cedar,1,,,1
+458,6/27/2025,167,8,1678,Black Cherry,Black Cherry,1,,,2
+459,6/27/2025,167,8,1678,Black Walnut,Black Walnut,8,,,3
+460,6/27/2025,167,9,1679,Black Walnut,Black Walnut,1,,,3
+461,6/27/2025,167,9,1679,Black Cherry,Black Cherry,1,,,2
+462,6/13/2025,112A,1,112A1,Black Cherry,Black Cherry,1,,,2
+463,6/13/2025,112A,2,112A2,Black Cherry,Black Cherry,1,,,2
+464,6/13/2025,112A,3,112A3,Black Cherry,Black Cherry,9,,,2
+465,6/13/2025,112A,3,112A3,Osage Orange,Osage Orange,1,,,2
+466,6/13/2025,112A,4,112A4,Black Cherry,Black Cherry,6,,,2
+467,6/13/2025,112A,4,112A4,Osage Orange,Osage Orange,1,,,2
+468,6/13/2025,112A,5,112A5,Black Cherry,Black Cherry,10,,,2
+469,6/13/2025,112A,6,112A6,Black Cherry,Black Cherry,1,,,2
+470,6/13/2025,112A,7,112A7,Black Cherry,Black Cherry,5,,,2
+471,6/13/2025,112A,7,112A7,Tulip Poplar,Tulip Poplar,2,,,3
+472,6/13/2025,112A,7,112A7,Osage Orange,Osage Orange,2,,,2
+473,6/13/2025,112A,7,112A7,Sassafras,Sassafras,2,,,2
+474,6/13/2025,112A,7,112A7,Dogwood,Flowering Dogwood,1,,,3
+475,6/13/2025,112A,7,112A7,Ailanthus,Ailanthus,14,,,1
+476,6/13/2025,112A,8,112A8,Black Cherry,Black Cherry,7,BT,,2
+477,6/13/2025,112A,8,112A8,Ailanthus,Ailanthus,1,,,1
+478,6/13/2025,112A,8,112A8,Tulip Poplar,Tulip Poplar,1,,,3
+479,6/13/2025,112A,8,112A8,Sassafras,Sassafras,2,,,2
+480,6/13/2025,112A,8,112A8,Dogwood,Flowering Dogwood,1,,,3
+481,6/13/2025,112A,8,112A8,Cherry,Cherry ,13,,,2
+482,6/13/2025,112A,8,112A8,Am. Persimmon,Am. Persimmon,1,,,3
+483,6/13/2025,112A,8,112A8,Osage Orange,Osage Orange,1,,,2
+484,6/13/2025,112A,8,112A8,Blackgum,Blackgum,6,,,4
+485,6/13/2025,112A,8,112A8,Mulberry,Red Mulberry,3,,,3
+486,6/13/2025,112A,9,112A9,Black Cherry,Black Cherry,2,,,2
+487,6/13/2025,112A,10,112A10,Black Locust,Black Locust,3,,,4
+488,6/13/2025,112A,10,112A10,Cherry,Cherry ,3,,,2
+489,6/13/2025,112A,11,112A11,Dogwood,Flowering Dogwood,1,,,3
+490,6/13/2025,112A,11,112A11,Osage Orange,Osage Orange,2,,,2
+491,6/13/2025,112A,11,112A11,Tulip Poplar,Tulip Poplar,6,,,3
+492,6/13/2025,112A,11,112A11,Cherry,Cherry ,11,,,2
+493,6/13/2025,112A,11,112A11,Ailanthus,Ailanthus,3,,,1
+494,6/13/2025,112A,11,112A11,Maple,Maple Sp.,5,,,3
+495,6/13/2025,112A,12,112A12,Osage Orange,Osage Orange,1,,,2
+496,6/13/2025,112A,13,112A13,Cherry,Cherry ,2,,,2
+497,6/13/2025,112A,13,112A13,Ailanthus,Ailanthus,2,,,1
+498,6/13/2025,112A,14,112A14,Cherry,Cherry ,6,,,2
+499,6/13/2025,112A,14,112A14,Tulip poplar,Tulip Poplar,1,,,3
+500,6/13/2025,115,1,1151,Black Walnut,Black Walnut,1,,,3
+501,6/13/2025,115,1,1151,Black Cherry,Black Cherry,1,,,2
+502,6/13/2025,115,1,1151,Am. Persimmon,Am. Persimmon,6,,,3
+503,6/13/2025,115,2,1152,Black Cherry,Black Cherry,1,,,2
+504,6/13/2025,115,3,1153,Maple,Maple Sp.,1,,,3
+505,6/13/2025,115,4,1154,Maple,Maple Sp.,1,,,3
+506,6/13/2025,115,4,1154,Black Cherry,Black Cherry,1,,,2
+507,6/13/2025,115,5,1155,Ailanthus,Ailanthus,6,,,1
+508,6/13/2025,115,6,1156,Osage Orange,Osage Orange,1,,,2
+509,6/13/2025,115,7,1157,Ailanthus,Ailanthus,1,,,1
+510,6/13/2025,115,7,1157,Osage Orange,Osage Orange,1,,,2
+511,6/13/2025,115,8,1158,Ailanthus,Ailanthus,2,,,1
+512,6/13/2025,115,8,1158,Cherry,Cherry ,1,,,2
+513,6/13/2025,115,8,1158,Am. Persimmon,Am. Persimmon,1,,,3
+514,6/13/2025,115,9,1159,Osage Orange,Osage Orange,1,,,2
+515,6/13/2025,115,10,11510,Osage Orange,Osage Orange,1,,,2
+516,6/13/2025,115,10,11510,Cherry,Cherry ,3,,,2
+517,6/13/2025,115,10,11510,Am. Persimmon,Am. Persimmon,2,,,3
+518,6/13/2025,115,10,11510,hackberry,Common Hackberry,1,,,3
+519,6/13/2025,115,11,11511,Cherry,Cherry ,1,,,2
+520,6/13/2025,115,11,11511,Osage Orange,Osage Orange,1,,,2
+521,6/13/2025,115,11,11511,Ailanthus,Ailanthus,1,,,1
+522,6/13/2025,115,12,11512,Ailanthus,Ailanthus,3,,,1
+523,6/13/2025,115,12,11512,Osage Orange,Osage Orange,1,,,2
+524,6/13/2025,115,13,11513,Ailanthus,Ailanthus,1,,,1
+525,6/13/2025,115,14,11514,Am. Persimmon,Am. Persimmon,2,,,3
+526,6/13/2025,115,15,11515,Osage Orange,Osage Orange,1,,,2
+527,6/13/2025,115,15,11515,Ailanthus,Ailanthus,2,,,1
+528,6/13/2025,115,16,11516,Ailanthus,Ailanthus,7,,,1
+529,6/13/2025,115,16,11516,Osage Orange,Osage Orange,1,,,2
+530,6/13/2025,115,16,11516,Black Cherry,Black Cherry,1,,,2
+531,6/13/2025,115,17,11517,Ailanthus,Ailanthus,3,,,1
+532,6/13/2025,115,17,11517,maple,maple,2,,,3
+533,6/13/2025,115,17,11517,Cherry,Cherry ,1,,,2
+534,6/13/2025,115,18,11518,Ailanthus,Ailanthus,5,,,1
+535,6/13/2025,115,19,11519,Ailanthus,Ailanthus,4,,,1
+536,6/13/2025,115,20,11520,Black Cherry,Black Cherry,1,,,2
+537,6/13/2025,115,21,11521,Osage Orange,Osage Orange,1,,,2
+538,6/13/2025,115,22,11522,N/A,N/A,NA,,,—
+539,6/13/2025,115,23,11523,Blackgum,Blackgum,1,,,4
+540,6/13/2025,115,24,11524,Ailanthus,Ailanthus,1,,,1
+541,6/13/2025,115,25,11525,Am. Persimmon,Am. Persimmon,1,,,3
+542,6/13/2025,115,26,11526,Ailanthus,Ailanthus,1,,,1
+543,6/13/2025,115,27,11527,Black Cherry,Black Cherry,1,,,2
+544,5/22/2025,132,1,1321,VA Pine,Virginia Pine,1,,,2
+545,5/22/2025,132,2,1322,Dogwood,Flowering Dogwood,2,,,3
+546,5/22/2025,132,3,1323,Red Oak,Red Oak Sp.,2,,,3
+547,5/22/2025,132,3,1323,Maples,Maple Sp.,2,,,3
+548,5/22/2025,132,3,1323,Sassafras,Sassafras,1,,,2
+549,5/22/2025,132,3,1323,Cherry,Cherry ,1,,,2
+550,5/22/2025,132,3,1323,Blackhaw,Black Haw,1,,,3
+551,5/22/2025,132,4,1324,VA Pine,Virginia Pine,1,,,2
+552,5/22/2025,132,4,1324,Dogwood,Flowering Dogwood,1,,,3
+553,5/22/2025,132,5,1325,Red Oak,Red Oak Sp.,2,,,3
+554,5/22/2025,132,5,1325,VA Pine,Virginia Pine,2,,,2
+555,5/22/2025,132,5,1325,maple,maple,6,,,3
+556,5/22/2025,132,5,1325,Black Locust,Black Locust,1,,,4
+557,5/22/2025,132,5,1325,dogwood,Flowering Dogwood,2,,,3
+558,5/22/2025,132,5,1325,Hickory,Hickory Sp.,1,,,4
+559,5/22/2025,132,6,1326,Princess Tree,Princess Tree,2,,,1
+560,5/22/2025,132,6,1326,Maple,Maple Sp.,1,,,3
+561,5/22/2025,132,7,1327,Red Oak,Red Oak Sp.,1,,,3
+562,5/22/2025,132,7,1327,VA Pine,Virginia Pine,1,,,2
+563,5/22/2025,132,7,1327,White Oak,White Oak,3,,,4
+564,5/22/2025,132,7,1327,dogwood,Flowering Dogwood,1,,,3
+565,5/22/2025,132,7,1327,Tulip poplar,Tulip Poplar,1,,,3
+566,5/22/2025,132,8,1328,dogwood,Flowering Dogwood,1,,,3
+567,5/22/2025,132,9,1329,Tulip poplar,Tulip Poplar,1,,,3
+568,5/22/2025,132,10,13210,VA Pine,Virginia Pine,1,,,2
+569,5/22/2025,132,11,13211,Tulip poplar,Tulip Poplar,1,,,3
+570,5/22/2025,132,12,13212,Tulip poplar,Tulip Poplar,1,,,3
+571,5/22/2025,132,13,13213,maple,maple,1,,,3
+572,5/22/2025,132,14,13214,locust,Black Locust,3,,,4
+573,5/22/2025,132,14,13214,Cherry,Cherry ,2,,,2
+574,5/22/2025,132,14,13214,maple,maple,2,,,3
+575,5/22/2025,132,14,13214,Tulip poplar,Tulip Poplar,1,,,3
+576,5/22/2025,132,14,13214,Ailanthus,Ailanthus,2,,,1
+577,5/22/2025,132,15,13215,Dogwood,Flowering Dogwood,1,,,3
+578,5/22/2025,132,15,13215,Black Locust,Black Locust,1,,,4
+579,5/22/2025,132,16,13216,Tulip poplar,Tulip Poplar,1,,,3
+580,5/22/2025,132,17,13217,dogwood,Flowering Dogwood,1,,,3
+581,5/22/2025,132,18,13218,Tulip poplar,Tulip Poplar,1,,,3
+582,5/22/2025,132,19,13219,Tulip poplar,Tulip Poplar,1,,,3
+583,5/22/2025,132,20,13220,Tulip poplar,Tulip Poplar,1,,,3
+584,5/22/2025,132,21,13221,locust,Black Locust,1,,,4
+585,5/22/2025,132,21,13221,Tulip poplar,Tulip Poplar,1,,,3
+586,5/22/2025,132,22,13222,white oak,White Oak,1,,,4
+587,5/22/2025,132,22,13222,dogwood,Flowering Dogwood,2,,,3
+588,5/22/2025,132,22,13222,blackgum,Blackgum,1,,,4
+589,5/22/2025,132,22,13222,Cherry,Cherry ,1,,,2
+590,5/22/2025,132,23,13223,white oak,White Oak,1,,,4
+591,5/22/2025,132,23,13223,Sassafras,Sassafras,1,,,2
+592,5/22/2025,132,23,13223,birch,Sweet birch,1,,Others that are dead,2
+593,5/22/2025,132,23,13223,blackgum,Blackgum,2,,,4
+594,5/22/2025,132,24,13224,maple,maple,1,,,3
+595,5/22/2025,132,24,13224,ailanthus,Ailanthus,5,,,1
+596,5/22/2025,132,25,13225,Tulip poplar,Tulip Poplar,1,,,3
+597,5/22/2025,132,26,13226,Princess Tree,Princess Tree,1,,,1
+598,5/22/2025,132,27,13227,Tulip poplar,Tulip Poplar,1,,,3
+599,7/2/2025,101A,1,101A1,Black Cherry,Black Cherry,1,,,2
+600,7/2/2025,101A,2,101A2,Am. Persimmon,Am. Persimmon,1,,,3
+601,7/2/2025,101A,2,101A2,Ailanthus,Ailanthus,1,,,1
+602,7/2/2025,101A,2,101A2,Black Cherry,Black Cherry,1,BT,1 dead BC,2
+603,7/2/2025,101A,3,101A3,Black Cherry,Black Cherry,5,,,2
+604,7/2/2025,101A,3,101A3,Ailanthus,Ailanthus,1,,,1
+605,7/2/2025,101A,3,101A3,Mulberry,Red Mulberry,1,,,3
+606,7/2/2025,101A,3,101A3,Tulip poplar,Tulip Poplar,1,,,3
+607,7/2/2025,101A,4,101A4,Black Cherry,Black Cherry,1,,,2
+608,7/2/2025,101A,5,101A5,Black Cherry,Black Cherry,1,,,2
+609,7/2/2025,101A,6,101A6,Ailanthus,Ailanthus,1,,,1
+610,7/2/2025,101A,7,101A7,dead,dead,NA,,,1
+611,7/2/2025,101A,7,101A7,mulberry,Red Mulberry,1,"MR, BT",,3
+612,7/2/2025,101A,8,101A8,Ailanthus,Ailanthus,2,,,1
+613,7/2/2025,101A,9,101A9,Hawthorne,Green Hawthorn,1,dead ailanthus,,3
+614,7/2/2025,101A,10,101A10,N/A,N/A,NA,AO,large clump of AO,—
+615,7/2/2025,101A,11,101A11,N/A,N/A ,NA,,Brushpile,—
+616,7/2/2025,101A,12,101A12,N/A,N/A,NA,,,—
+617,7/2/2025,101A,13-16,101A13-16,Black Cherry,Black Cherry,3,AO,,2
+618,7/2/2025,101A,13-16,101A13-16,Ailanthus,Ailanthus,6,,,1
+619,7/2/2025,101A,13-16,101A13-16,dead/dying ailanthus,dead/dying ailanthus,14,,,1
+620,7/2/2025,101A,17,101A17,Hawthorne,Green Hawthorn,1,,,3
+621,7/2/2025,101D,1,101D1,Ailanthus,Ailanthus,2,,,1
+622,7/2/2025,101D,2,101D2,Ailanthus,Ailanthus,2,,,1
+623,7/2/2025,101D,3,101D3,Mulberry,Red Mulberry,1,,,3
+624,7/2/2025,101D,4,101D4,Black Cherry,Black Cherry,4,BT,,2
+625,7/2/2025,101D,5,101D5,Ailanthus,Ailanthus,1,,,1
+626,7/2/2025,101D,5,101D5,Black Cherry,Black Cherry,1,,,2
+627,7/2/2025,101D,6,101D6,Mulberry,Red Mulberry,1,,,3
+628,7/2/2025,101D,7,101D7,Black Cherry,Black Cherry,1,BT,,2
+629,7/2/2025,101D,7,101D7,Mulberry,Red Mulberry,1,BT,,3
+630,7/2/2025,101D,8,101D8,Dead,Dead,NA,,,1
+631,7/2/2025,101D,9,101D9,Ailanthus,Ailanthus,1,,,1
+632,7/2/2025,101D,9,101D9,Hawthorne,Green Hawthorn,1,,,3
+633,7/2/2025,101D,10,101D10,Black Cherry,Black Cherry,1,,,2
+634,7/2/2025,101D,11,101D11,Black Cherry,Black Cherry,1,,,2
+635,7/2/2025,101D,12,101D12,Tulip poplar,Tulip Poplar,1,,,3
+636,7/2/2025,101D,12,101D12,Black Cherry,Black Cherry,1,,,2
+637,7/2/2025,101D,13,101D13,Black Cherry,Black Cherry,1,BT,,2
