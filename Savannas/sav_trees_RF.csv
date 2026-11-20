@@ -1,0 +1,612 @@
+,Species,Number.of.trees,ClumpID,Plot.Sp.Total,Plot.SumTotal,Relative.Frequency
+1,Black Cherry,1,101A1,1,1,1
+2,Black Cherry,3,101A13-16,3,23,0.130434783
+3,Ailanthus,6,101A13-16,20,23,0.869565217
+4,Ailanthus,14,101A13-16,20,23,0.869565217
+5,Green Hawthorn,1,101A17,1,1,1
+6,Am. Persimmon,1,101A2,1,3,0.333333333
+7,Ailanthus,1,101A2,1,3,0.333333333
+8,Black Cherry,1,101A2,1,3,0.333333333
+9,Black Cherry,5,101A3,5,8,0.625
+10,Ailanthus,1,101A3,1,8,0.125
+11,Red Mulberry,1,101A3,1,8,0.125
+12,Tulip Poplar,1,101A3,1,8,0.125
+13,Black Cherry,1,101A4,1,1,1
+14,Black Cherry,1,101A5,1,1,1
+15,Ailanthus,1,101A6,1,1,1
+16,Red Mulberry,1,101A7,1,1,1
+17,Ailanthus,2,101A8,2,2,1
+18,Green Hawthorn,1,101A9,1,1,1
+19,Ailanthus,2,101D1,2,2,1
+20,Black Cherry,1,101D10,1,1,1
+21,Black Cherry,1,101D11,1,1,1
+22,Tulip Poplar,1,101D12,1,2,0.5
+23,Black Cherry,1,101D12,1,2,0.5
+24,Black Cherry,1,101D13,1,1,1
+25,Ailanthus,2,101D2,2,2,1
+26,Red Mulberry,1,101D3,1,1,1
+27,Black Cherry,4,101D4,4,4,1
+28,Ailanthus,1,101D5,1,2,0.5
+29,Black Cherry,1,101D5,1,2,0.5
+30,Red Mulberry,1,101D6,1,1,1
+31,Black Cherry,1,101D7,1,2,0.5
+32,Red Mulberry,1,101D7,1,2,0.5
+33,Ailanthus,1,101D9,1,2,0.5
+34,Green Hawthorn,1,101D9,1,2,0.5
+35,Black Cherry,1,101F1,1,1,1
+36,Maple Sp.,1,101F10,1,1,1
+37,Chinese Privet,1,101F11,1,2,0.5
+38,Black Cherry,1,101F11,1,2,0.5
+39,Black Locust,1,101F12,1,3,0.333333333
+40,Black Cherry,1,101F12,1,3,0.333333333
+41,Red Mulberry,1,101F12,1,3,0.333333333
+42,Black Cherry,1,101F14,1,1,1
+43,Black Cherry,1,101F15,1,1,1
+44,Black Cherry,1,101F16,1,1,1
+45,Black Locust,1,101F17,1,1,1
+46,Sassafras,1,101F18,1,3,0.333333333
+47,Flowering Dogwood,1,101F18,1,3,0.333333333
+48,Black Cherry,1,101F18,1,3,0.333333333
+49,Black Cherry,1,101F19,1,1,1
+50,Black Cherry,1,101F2,1,1,1
+51,Red Mulberry,1,101F20,1,1,1
+52,Black Cherry,1,101F3,1,1,1
+53,Black Cherry,1,101F4,1,1,1
+54,Black Cherry,1,101F5,1,1,1
+55,Black Cherry,1,101F7,1,1,1
+56,Black Cherry,1,101F8,1,1,1
+57,Black Cherry,1,101F9,1,1,1
+58,Black Cherry,5,101N1,5,9,0.555555556
+59,Red Mulberry,1,101N1,1,9,0.111111111
+60,Red Oak Sp.,1,101N1,1,9,0.111111111
+61,Black Locust,1,101N1,1,9,0.111111111
+62,Chinese Privet,1,101N1,1,9,0.111111111
+63,Black Cherry,3,101N10,3,3,1
+64,Black Cherry,1,101N11,1,1,1
+65,Black Cherry,9,101N2,9,15,0.6
+66,White Oak,1,101N2,1,15,0.066666667
+67,Sassafras,4,101N2,4,15,0.266666667
+68,Black Walnut,1,101N2,1,15,0.066666667
+69,Black Walnut,2,101N3,2,2,1
+70,Black Locust,5,101N4,5,5,1
+71,Ailanthus,4,101N5,4,4,1
+72,Ailanthus,1,101N6,1,1,1
+73,Ailanthus,3,101N7,3,5,0.6
+74,Black Cherry,2,101N7,2,5,0.4
+75,Black Cherry,6,101N8,6,12,0.5
+76,Sassafras,6,101N8,6,12,0.5
+77,Sassafras,4,101N9,4,8,0.5
+78,Black Cherry,2,101N9,2,8,0.25
+79,Black Locust,2,101N9,2,8,0.25
+80,Black Cherry,2,101S1,2,2,1
+81,Black Cherry,2,101S10,2,2,1
+82,Black Cherry,1,101S11,1,1,1
+83,Black Cherry,1,101S12,1,1,1
+84,Ailanthus,3,101S13,3,3,1
+85,Ailanthus,1,101S14,1,1,1
+86,Black Cherry,1,101S15,1,1,1
+87,Black Cherry,2,101S16,2,2,1
+88,Black Cherry,1,101S17,1,1,1
+89,Green Hawthorn,1,101S18,1,1,1
+90,Black Cherry,1,101S19,1,1,1
+91,Black Cherry,1,101S2,1,1,1
+92,Green Hawthorn,1,101S20,1,1,1
+93,Black Cherry,1,101S21,1,1,1
+94,Ailanthus,1,101S3,1,1,1
+95,Green Hawthorn,1,101S4,1,1,1
+96,Ailanthus,5,101S5,5,5,1
+97,Black Cherry,3,101S6,4,5,0.8
+98,Green Hawthorn,1,101S6,1,5,0.2
+99,Black Cherry,1,101S6,4,5,0.8
+100,Black Cherry,1,101S7,1,1,1
+101,Black Cherry,2,101S8,2,2,1
+102,Black Cherry,2,101S9,2,2,1
+103,Black Cherry,1,112A1,1,1,1
+104,Black Locust,3,112A10,3,6,0.5
+105,Cherry ,3,112A10,3,6,0.5
+106,Flowering Dogwood,1,112A11,1,28,0.035714286
+107,Osage Orange,2,112A11,2,28,0.071428571
+108,Tulip Poplar,6,112A11,6,28,0.214285714
+109,Cherry ,11,112A11,11,28,0.392857143
+110,Ailanthus,3,112A11,3,28,0.107142857
+111,Maple Sp.,5,112A11,5,28,0.178571429
+112,Osage Orange,1,112A12,1,1,1
+113,Cherry ,2,112A13,2,4,0.5
+114,Ailanthus,2,112A13,2,4,0.5
+115,Cherry ,6,112A14,6,7,0.857142857
+116,Tulip Poplar,1,112A14,1,7,0.142857143
+117,Black Cherry,1,112A2,1,1,1
+118,Black Cherry,9,112A3,9,10,0.9
+119,Osage Orange,1,112A3,1,10,0.1
+120,Black Cherry,6,112A4,6,7,0.857142857
+121,Osage Orange,1,112A4,1,7,0.142857143
+122,Black Cherry,10,112A5,10,10,1
+123,Black Cherry,1,112A6,1,1,1
+124,Black Cherry,5,112A7,5,26,0.192307692
+125,Tulip Poplar,2,112A7,2,26,0.076923077
+126,Osage Orange,2,112A7,2,26,0.076923077
+127,Sassafras,2,112A7,2,26,0.076923077
+128,Flowering Dogwood,1,112A7,1,26,0.038461538
+129,Ailanthus,14,112A7,14,26,0.538461538
+130,Black Cherry,7,112A8,7,36,0.194444444
+131,Ailanthus,1,112A8,1,36,0.027777778
+132,Tulip Poplar,1,112A8,1,36,0.027777778
+133,Sassafras,2,112A8,2,36,0.055555556
+134,Flowering Dogwood,1,112A8,1,36,0.027777778
+135,Cherry ,13,112A8,13,36,0.361111111
+136,Am. Persimmon,1,112A8,1,36,0.027777778
+137,Osage Orange,1,112A8,1,36,0.027777778
+138,Blackgum,6,112A8,6,36,0.166666667
+139,Red Mulberry,3,112A8,3,36,0.083333333
+140,Black Cherry,2,112A9,2,2,1
+141,Osage Orange,9,112B1,9,27,0.333333333
+142,Ailanthus,11,112B1,11,27,0.407407407
+143,Black Cherry,6,112B1,6,27,0.222222222
+144,Blackgum,1,112B1,1,27,0.037037037
+145,Blackgum ,1,112B10,1,1,1
+146,Maple Sp.,1,112B11,1,1,1
+147,Osage Orange,1,112B12,1,1,1
+148,Maple Sp.,1,112B13,1,1,1
+149,Black Cherry,1,112B14,1,1,1
+150,Black Cherry,8,112B15,8,22,0.363636364
+151,Blackgum,3,112B15,3,22,0.136363636
+152,Princess Tree,3,112B15,3,22,0.136363636
+153,Osage Orange,4,112B15,4,22,0.181818182
+154,Tulip Poplar,2,112B15,2,22,0.090909091
+155,Maple Sp.,1,112B15,2,22,0.090909091
+156,Maple Sp.,1,112B15,2,22,0.090909091
+157,Tulip Poplar,1,112B16,1,2,0.5
+158,Black Cherry,1,112B16,1,2,0.5
+159,Black Cherry,1,112B18,1,10,0.1
+160,Blackgum,2,112B18,2,10,0.2
+161,Osage Orange,1,112B18,1,10,0.1
+162,Am. Persimmon,6,112B18,6,10,0.6
+163,Black Cherry,1,112B19,1,2,0.5
+164,Osage Orange,1,112B19,1,2,0.5
+165,Ailanthus,1,112B2,1,1,1
+166,Flowering Dogwood,1,112B20,1,1,1
+167,Sassafras,1,112B21,1,14,0.071428571
+168,Black Cherry,5,112B21,5,14,0.357142857
+169,Ailanthus,7,112B21,7,14,0.5
+170,Red Mulberry,1,112B21,1,14,0.071428571
+171,Osage Orange,2,112B22,2,8,0.25
+172,Black Cherry,5,112B22,5,8,0.625
+173,Am. Persimmon,1,112B22,1,8,0.125
+174,Ailanthus,1,112B23,1,1,1
+175,Black Cherry,3,112B24,3,3,1
+176,Black Cherry,1,112B25,1,2,0.5
+177,Flowering Dogwood,1,112B25,1,2,0.5
+178,Black Cherry,1,112B3,1,1,1
+179,Osage Orange,1,112B4,1,2,0.5
+180,Black Cherry,1,112B4,1,2,0.5
+181,Black Cherry,1,112B5,1,2,0.5
+182,Blackgum,1,112B5,1,2,0.5
+183,Ailanthus,1,112B6,1,1,1
+184,Black Cherry,1,112B7,1,1,1
+185,Osage Orange,1,112B8,1,1,1
+186,Black Cherry,1,112B9,1,1,1
+187,Black Walnut,1,1151,1,8,0.125
+188,Black Cherry,1,1151,1,8,0.125
+189,Am. Persimmon,6,1151,6,8,0.75
+190,Osage Orange,1,11510,1,7,0.142857143
+191,Cherry ,3,11510,3,7,0.428571429
+192,Am. Persimmon,2,11510,2,7,0.285714286
+193,Common Hackberry,1,11510,1,7,0.142857143
+194,Cherry ,1,11511,1,3,0.333333333
+195,Osage Orange,1,11511,1,3,0.333333333
+196,Ailanthus,1,11511,1,3,0.333333333
+197,Ailanthus,3,11512,3,4,0.75
+198,Osage Orange,1,11512,1,4,0.25
+199,Ailanthus,1,11513,1,1,1
+200,Am. Persimmon,2,11514,2,2,1
+201,Osage Orange,1,11515,1,3,0.333333333
+202,Ailanthus,2,11515,2,3,0.666666667
+203,Ailanthus,7,11516,7,9,0.777777778
+204,Osage Orange,1,11516,1,9,0.111111111
+205,Black Cherry,1,11516,1,9,0.111111111
+206,Ailanthus,3,11517,3,6,0.5
+207,Maple Sp.,2,11517,2,6,0.333333333
+208,Cherry ,1,11517,1,6,0.166666667
+209,Ailanthus,5,11518,5,5,1
+210,Ailanthus,4,11519,4,4,1
+211,Black Cherry,1,1152,1,1,1
+212,Black Cherry,1,11520,1,1,1
+213,Osage Orange,1,11521,1,1,1
+214,Blackgum,1,11523,1,1,1
+215,Ailanthus,1,11524,1,1,1
+216,Am. Persimmon,1,11525,1,1,1
+217,Ailanthus,1,11526,1,1,1
+218,Black Cherry,1,11527,1,1,1
+219,Maple Sp.,1,1153,1,1,1
+220,Maple Sp.,1,1154,1,2,0.5
+221,Black Cherry,1,1154,1,2,0.5
+222,Ailanthus,6,1155,6,6,1
+223,Osage Orange,1,1156,1,1,1
+224,Ailanthus,1,1157,1,2,0.5
+225,Osage Orange,1,1157,1,2,0.5
+226,Ailanthus,2,1158,2,4,0.5
+227,Cherry ,1,1158,1,4,0.25
+228,Am. Persimmon,1,1158,1,4,0.25
+229,Osage Orange,1,1159,1,1,1
+230,Virginia Pine,1,1321,1,1,1
+231,Virginia Pine,1,13210,1,1,1
+232,Tulip Poplar,1,13211,1,1,1
+233,Tulip Poplar,1,13212,1,1,1
+234,Maple Sp.,1,13213,1,1,1
+235,Black Locust,3,13214,3,10,0.3
+236,Cherry ,2,13214,2,10,0.2
+237,Maple Sp.,2,13214,2,10,0.2
+238,Tulip Poplar,1,13214,1,10,0.1
+239,Ailanthus,2,13214,2,10,0.2
+240,Flowering Dogwood,1,13215,1,2,0.5
+241,Black Locust,1,13215,1,2,0.5
+242,Tulip Poplar,1,13216,1,1,1
+243,Flowering Dogwood,1,13217,1,1,1
+244,Tulip Poplar,1,13218,1,1,1
+245,Tulip Poplar,1,13219,1,1,1
+246,Flowering Dogwood,2,1322,2,2,1
+247,Tulip Poplar,1,13220,1,1,1
+248,Black Locust,1,13221,1,2,0.5
+249,Tulip Poplar,1,13221,1,2,0.5
+250,White Oak,1,13222,1,5,0.2
+251,Flowering Dogwood,2,13222,2,5,0.4
+252,Blackgum,1,13222,1,5,0.2
+253,Cherry ,1,13222,1,5,0.2
+254,White Oak,1,13223,1,5,0.2
+255,Sassafras,1,13223,1,5,0.2
+256,Sweet birch,1,13223,1,5,0.2
+257,Blackgum,2,13223,2,5,0.4
+258,Maple Sp.,1,13224,1,6,0.166666667
+259,Ailanthus,5,13224,5,6,0.833333333
+260,Tulip Poplar,1,13225,1,1,1
+261,Princess Tree,1,13226,1,1,1
+262,Tulip Poplar,1,13227,1,1,1
+263,Red Oak Sp.,2,1323,2,7,0.285714286
+264,Maple Sp.,2,1323,2,7,0.285714286
+265,Sassafras,1,1323,1,7,0.142857143
+266,Cherry ,1,1323,1,7,0.142857143
+267,Black Haw,1,1323,1,7,0.142857143
+268,Virginia Pine,1,1324,1,2,0.5
+269,Flowering Dogwood,1,1324,1,2,0.5
+270,Red Oak Sp.,2,1325,2,14,0.142857143
+271,Virginia Pine,2,1325,2,14,0.142857143
+272,Maple Sp.,6,1325,6,14,0.428571429
+273,Black Locust,1,1325,1,14,0.071428571
+274,Flowering Dogwood,2,1325,2,14,0.142857143
+275,Hickory Sp.,1,1325,1,14,0.071428571
+276,Princess Tree,2,1326,2,3,0.666666667
+277,Maple Sp.,1,1326,1,3,0.333333333
+278,Red Oak Sp.,1,1327,1,7,0.142857143
+279,Virginia Pine,1,1327,1,7,0.142857143
+280,White Oak,3,1327,3,7,0.428571429
+281,Flowering Dogwood,1,1327,1,7,0.142857143
+282,Tulip Poplar,1,1327,1,7,0.142857143
+283,Flowering Dogwood,1,1328,1,1,1
+284,Tulip Poplar,1,1329,1,1,1
+285,Black Cherry,1,1331,1,3,0.333333333
+286,Flowering Dogwood,1,1331,1,3,0.333333333
+287,Am. Persimmon,1,1331,1,3,0.333333333
+288,Eastern Red Cedar,1,13310,1,1,1
+289,Flowering Dogwood,2,13311,2,2,1
+290,Black Cherry,3,13312,3,7,0.428571429
+291,Flowering Dogwood,3,13312,3,7,0.428571429
+292,Am. Persimmon,1,13312,1,7,0.142857143
+293,Flowering Dogwood,1,13313,1,2,0.5
+294,Black Cherry,1,13313,1,2,0.5
+295,Flowering Dogwood,1,13314,1,1,1
+296,Flowering Dogwood,1,13315,1,1,1
+297,Black Cherry,1,13316,1,1,1
+298,Ailanthus,1,13317,1,5,0.2
+299,Am. Persimmon,4,13317,4,5,0.8
+300,Black Cherry,1,13319,1,1,1
+301,Ailanthus,1,1332,1,4,0.25
+302,Black Cherry,2,1332,2,4,0.5
+303,Sassafras,1,1332,1,4,0.25
+304,Flowering Dogwood,2,13320,2,2,1
+305,Eastern Red Cedar,1,13322,1,1,1
+306,Ailanthus,4,13323,4,7,0.571428571
+307,Black Haw,2,13323,2,7,0.285714286
+308,Sassafras,1,13323,1,7,0.142857143
+309,Red Oak Sp.,1,13324,1,1,1
+310,Ailanthus,1,13326,1,1,1
+311,Green Hawthorn,1,13328,1,1,1
+312,Green Hawthorn,1,13329,1,6,0.166666667
+313,Black Cherry,3,13329,3,6,0.5
+314,Flowering Dogwood,2,13329,2,6,0.333333333
+315,Am. Persimmon,2,1333,2,3,0.666666667
+316,Eastern Red Cedar,1,1333,1,3,0.333333333
+317,Black Cherry,1,13330,1,2,0.5
+318,Flowering Dogwood,1,13330,1,2,0.5
+319,Black Cherry,1,13333,1,1,1
+320,Green Hawthorn,1,13334,1,1,1
+321,Green Hawthorn,1,13335,1,1,1
+322,Black Cherry,1,13336,1,2,0.5
+323,Maple Sp.,1,13336,1,2,0.5
+324,Ailanthus,4,13337,4,6,0.666666667
+325,Maple Sp.,1,13337,1,6,0.166666667
+326,Hickory Sp.,1,13337,1,6,0.166666667
+327,Black Cherry,1,13338,1,1,1
+328,Hickory Sp.,1,13339,1,1,1
+329,Flowering Dogwood,4,1334,4,23,0.173913043
+330,Black Cherry,1,1334,1,23,0.043478261
+331,Maple Sp.,17,1334,17,23,0.739130435
+332,Tulip Poplar,1,1334,1,23,0.043478261
+333,Red Oak Sp.,1,13342,1,4,0.25
+334,Ailanthus,2,13342,2,4,0.5
+335,Red Mulberry,1,13342,1,4,0.25
+336,Tulip Poplar,1,13343,1,3,0.333333333
+337,Black Cherry,1,13343,1,3,0.333333333
+338,Ailanthus,1,13343,1,3,0.333333333
+339,Princess Tree,1,13344,1,1,1
+340,Black Locust,1,13345,1,1,1
+341,Am. Persimmon,1,1335,1,1,1
+342,Blackhaw,1,1336,1,5,0.2
+343,Flowering Dogwood,1,1336,1,5,0.2
+344,Black Cherry,1,1336,1,5,0.2
+345,Maple Sp.,1,1336,1,5,0.2
+346,Am. Persimmon,1,1336,1,5,0.2
+347,Ailanthus,9,1338,9,12,0.75
+348,White Mulberry,1,1338,1,12,0.083333333
+349,Black Cherry,1,1338,1,12,0.083333333
+350,Am. Sycamore,1,1338,1,12,0.083333333
+351,Black Cherry,1,1339,1,1,1
+352,Green Hawthorn,1,134A1,1,1,1
+353,Flowering Dogwood,1,134A10,1,5,0.2
+354,Black Cherry,1,134A10,1,5,0.2
+355,Blackgum,3,134A10,3,5,0.6
+356,Flowering Dogwood,3,134A11,3,15,0.2
+357,Ailanthus,3,134A11,3,15,0.2
+358,Black Cherry,2,134A11,2,15,0.133333333
+359,Am. Persimmon,7,134A11,7,15,0.466666667
+360,Dead,1,134A12,1,1,1
+361,Am. Persimmon,1,134A13,1,1,1
+362,Ailanthus,3,134A14,3,6,0.5
+363,Am. Persimmon,2,134A14,2,6,0.333333333
+364,Green Hawthorn,1,134A14,1,6,0.166666667
+365,Green Hawthorn,1,134A16,1,1,1
+366,Flowering Dogwood,1,134A17,1,2,0.5
+367,Am. Persimmon,1,134A17,1,2,0.5
+368,Flowering Dogwood,5,134A18,5,14,0.357142857
+369,Cherry ,3,134A18,3,14,0.214285714
+370,Maple Sp.,1,134A18,1,14,0.071428571
+371,Blackgum,3,134A18,3,14,0.214285714
+372,Black Cherry,2,134A18,2,14,0.142857143
+373,Black Oak,1,134A19,1,2,0.5
+374,Eastern Red Cedar,1,134A19,1,2,0.5
+375,Am. Persimmon,1,134A2,1,1,1
+376,Blackgum,1,134A20,1,1,1
+377,Eastern Red Cedar,1,134A21,1,1,1
+378,White Oak,1,134A22,1,3,0.333333333
+379,Blackgum,2,134A22,2,3,0.666666667
+380,Black Cherry,1,134A23,1,2,0.5
+381,Flowering Dogwood,1,134A23,1,2,0.5
+382,Sycamore,1,134A24,1,2,0.5
+383,Am. Persimmon,1,134A24,1,2,0.5
+384,Black Cherry,2,134A27,2,14,0.142857143
+385,Red Mulberry,2,134A27,2,14,0.142857143
+386,Flowering Dogwood,2,134A27,2,14,0.142857143
+387,Maple Sp.,6,134A27,6,14,0.428571429
+388,Eastern Red Cedar,1,134A27,1,14,0.071428571
+389,Ailanthus,1,134A27,1,14,0.071428571
+390,Sweet Cherry?,1,134A28,1,3,0.333333333
+391,Am. Persimmon,2,134A28,2,3,0.666666667
+392,Flowering Dogwood,1,134A29/30,1,2,0.5
+393,Maple Sp.,1,134A29/30,1,2,0.5
+394,Ailanthus,1,134A3,1,1,1
+395,Ailanthus,4,134A31,4,5,0.8
+396,Red Mulberry,1,134A31,1,5,0.2
+397,Ailanthus,1,134A32,1,1,1
+398,Ailanthus,5,134A33,5,5,1
+399,Flowering Dogwood,1,134A34/35,1,10,0.1
+400,Maple Sp.,1,134A34/35,1,10,0.1
+401,Blackgum,1,134A34/35,1,10,0.1
+402,Ailanthus,6,134A34/35,6,10,0.6
+403,Black Cherry,1,134A34/35,1,10,0.1
+404,Maple Sp.,1,134A36,1,1,1
+405,Am. Persimmon,1,134A37,1,3,0.333333333
+406,Maple Sp.,2,134A37,2,3,0.666666667
+407,White Oak,1,134A38,1,1,1
+408,Flowering Dogwood,1,134A4,1,3,0.333333333
+409,Black Cherry,1,134A4,1,3,0.333333333
+410,White Mulberry,1,134A4,1,3,0.333333333
+411,Black Cherry,1,134A5,1,1,1
+412,Flowering Dogwood,2,134A6,2,3,0.666666667
+413,Black Cherry,1,134A6,1,3,0.333333333
+414,Dead ,1,134A7,1,1,1
+415,Virginia Pine,1,134A8,1,1,1
+416,Dead ,1,134A9,1,1,1
+417,Black Cherry,1,134B1,1,1,1
+418,Maple Sp.,4,134B10,4,4,1
+419,Maple Sp.,3,134B11,3,3,1
+420,Maple Sp.,2,134B12,2,7,0.285714286
+421,Flowering Dogwood,2,134B12,2,7,0.285714286
+422,Black Cherry,2,134B12,2,7,0.285714286
+423,Blackgum,1,134B12,1,7,0.142857143
+424,Black Cherry,1,134B13,1,1,1
+425,Eastern Red Cedar,2,134B14,2,6,0.333333333
+426,Maple Sp.,2,134B14,2,6,0.333333333
+427,Sycamore,1,134B14,1,6,0.166666667
+428,Black Cherry,1,134B14,1,6,0.166666667
+429,Blackgum,2,134B2,2,9,0.222222222
+430,Black Cherry,3,134B2,3,9,0.333333333
+431,Maple Sp.,3,134B2,3,9,0.333333333
+432,Flowering Dogwood,1,134B2,1,9,0.111111111
+433,Flowering Dogwood,1,134B3,1,6,0.166666667
+434,Maple Sp.,5,134B3,5,6,0.833333333
+435,Maple Sp.,3,134B4,3,3,1
+436,Flowering Dogwood,1,134B5,1,17,0.058823529
+437,Black Walnut,1,134B5,1,17,0.058823529
+438,Black Cherry,3,134B5,3,17,0.176470588
+439,Blackgum,6,134B5,6,17,0.352941176
+440,Sassafras,1,134B5,1,17,0.058823529
+441,Ailanthus,3,134B5,3,17,0.176470588
+442,Black Oak,1,134B5,1,17,0.058823529
+443,Maple Sp.,1,134B5,1,17,0.058823529
+444,Ailanthus,6,134B6,6,13,0.461538462
+445,Maple Sp.,6,134B6,6,13,0.461538462
+446,Am. Persimmon,1,134B6,1,13,0.076923077
+447,Maple Sp.,11,134B7,11,21,0.523809524
+448,Am. Persimmon,1,134B7,1,21,0.047619048
+449,Tulip Poplar,1,134B7,1,21,0.047619048
+450,Blackgum,6,134B7,6,21,0.285714286
+451,Black Cherry,1,134B7,1,21,0.047619048
+452,Red Oak Sp.,1,134B7,1,21,0.047619048
+453,Blackgum,2,134B8,2,6,0.333333333
+454,Maple Sp.,1,134B8,1,6,0.166666667
+455,Flowering Dogwood,1,134B8,1,6,0.166666667
+456,Ailanthus,1,134B8,1,6,0.166666667
+457,Black Oak,1,134B8,1,6,0.166666667
+458,Eastern Red Cedar,1,134B9,1,3,0.333333333
+459,Flowering Dogwood,1,134B9,1,3,0.333333333
+460,Maple Sp.,1,134B9,1,3,0.333333333
+461,Maple Sp.,1,134C10,1,1,1
+462,Maple Sp.,2,134C11,2,5,0.4
+463,White Oak,2,134C11,2,5,0.4
+464,Tulip Poplar,1,134C11,1,5,0.2
+465,Ailanthus,2,134C12,2,6,0.333333333
+466,Black Cherry,1,134C12,1,6,0.166666667
+467,Black Walnut,1,134C12,1,6,0.166666667
+468,Flowering Dogwood,1,134C12,1,6,0.166666667
+469,Maple Sp.,1,134C12,1,6,0.166666667
+470,Black Cherry,4,134C13,4,7,0.571428571
+471,Maple Sp.,2,134C13,2,7,0.285714286
+472,Tulip Poplar,1,134C13,1,7,0.142857143
+473,Tulip Poplar,1,134C14,1,1,1
+474,Maple Sp.,1,134C15,1,1,1
+475,Tulip Poplar,1,134C16,1,1,1
+476,Green Hawthorn,1,134C17,1,2,0.5
+477,Ailanthus,1,134C17,1,2,0.5
+478,Black Cherry,3,134C3,3,3,1
+479,Maple Sp.,1,134C4,1,1,1
+480,Ailanthus,1,134C5,1,3,0.333333333
+481,Black Oak,1,134C5,1,3,0.333333333
+482,Black Locust,1,134C5,1,3,0.333333333
+483,Maple Sp.,1,134C6,1,1,1
+484,Maple Sp.,1,134C7,1,1,1
+485,Maple Sp.,1,134C8,1,1,1
+486,Maple Sp.,1,134C9,1,1,1
+487,Blackgum,2,134D1,2,2,1
+488,Flowering Dogwood,3,134D10,3,28,0.107142857
+489,Maple Sp.,3,134D10,3,28,0.107142857
+490,Am. Persimmon,8,134D10,8,28,0.285714286
+491,Tulip Poplar,1,134D10,1,28,0.035714286
+492,Black Cherry,6,134D10,6,28,0.214285714
+493,Blackgum,6,134D10,6,28,0.214285714
+494,Ailanthus,1,134D10,1,28,0.035714286
+495,Maple Sp.,2,134D2,2,2,1
+496,Ailanthus,9,134D3,9,9,1
+497,Flowering Dogwood,1,134D4,1,3,0.333333333
+498,Maple Sp.,2,134D4,2,3,0.666666667
+499,Ailanthus,11,134D5,11,26,0.423076923
+500,Maple Sp.,1,134D5,1,26,0.038461538
+501,Black Cherry,8,134D5,8,26,0.307692308
+502,Flowering Dogwood,1,134D5,1,26,0.038461538
+503,Black Locust,3,134D5,3,26,0.115384615
+504,Sassafras,1,134D5,1,26,0.038461538
+505,Blackgum,1,134D5,1,26,0.038461538
+506,Black Cherry,1,134D6,1,3,0.333333333
+507,Maple Sp.,1,134D6,1,3,0.333333333
+508,Flowering Dogwood,1,134D6,1,3,0.333333333
+509,Tulip Poplar,1,134D7,1,1,1
+510,Dead,1,134D8,1,2,0.5
+511,Flowering Dogwood,1,134D8,1,2,0.5
+512,Am. Persimmon,1,134D9,1,1,1
+513,Ailanthus,2,1531,2,5,0.4
+514,Maple Sp.,1,1531,1,5,0.2
+515,Black Cherry,2,1531,2,5,0.4
+516,Eastern Red Cedar,1,15310,1,1,1
+517,Eastern Red Cedar,1,15311,1,1,1
+518,Black Cherry,3,15312,3,8,0.375
+519,Maple Sp.,4,15312,4,8,0.5
+520,Eastern Red Cedar,1,15312,1,8,0.125
+521,Flowering Dogwood,1,1532,1,4,0.25
+522,Prunus Sp.,1,1532,1,4,0.25
+523,Maple Sp.,1,1532,1,4,0.25
+524,Black Cherry,1,1532,1,4,0.25
+525,Virginia Pine,2,1533,2,4,0.5
+526,Black Cherry,1,1533,1,4,0.25
+527,Red Mulberry,1,1533,1,4,0.25
+528,Flowering Dogwood,3,1534,3,6,0.5
+529,Virginia Pine,2,1534,2,6,0.333333333
+530,White Oak,1,1534,1,6,0.166666667
+531,Eastern Red Cedar,1,1535,1,2,0.5
+532,Blackgum,1,1535,1,2,0.5
+533,Eastern Red Cedar,1,1536,1,1,1
+534,Flowering Dogwood,1,1537,1,9,0.111111111
+535,Blackgum,3,1537,3,9,0.333333333
+536,Black Cherry,5,1537,5,9,0.555555556
+537,Eastern Red Cedar,1,1538,1,1,1
+538,Eastern Red Cedar,3,1539,3,3,1
+539,Black Locust,3,1581,3,20,0.15
+540,Ailanthus,4,1581,4,20,0.2
+541,Black Walnut,10,1581,10,20,0.5
+542,Black Cherry,2,1581,2,20,0.1
+543,Green Hawthorn,1,1581,1,20,0.05
+544,Ailanthus,1,15810,1,1,1
+545,Sycamore,2,15811,2,2,1
+546,Princess Tree,1,15812,1,2,0.5
+547,Red Mulberry,1,15812,1,2,0.5
+548,Red Mulberry,1,15813,1,2,0.5
+549,Black Cherry,1,15813,1,2,0.5
+550,Green Hawthorn,1,1582,1,1,1
+551,Black Cherry,1,1583,1,1,1
+552,Am. Persimmon,1,1584,1,2,0.5
+553,Green Hawthorn,1,1584,1,2,0.5
+554,Blackhaw,1,1585,1,1,1
+555,Black Walnut,1,1586,1,4,0.25
+556,Am. Persimmon,3,1586,3,4,0.75
+557,Black Cherry,1,1587,1,1,1
+558,Am. Persimmon,1,1588,1,1,1
+559,Am. Persimmon,1,1589,1,1,1
+560,Black Cherry,2,1671,2,4,0.5
+561,Black Walnut,2,1671,2,4,0.5
+562,Black Cherry,1,1672,1,1,1
+563,Unknown,1,1673,1,3,0.333333333
+564,Black Cherry,1,1673,1,3,0.333333333
+565,Ailanthus,1,1673,1,3,0.333333333
+566,Black Cherry,1,1675,1,1,1
+567,Black Cherry,7,1676,7,11,0.636363636
+568,Black Walnut,4,1676,4,11,0.363636364
+569,Black Cherry,4,1677,4,4,1
+570,Eastern Red Cedar,1,1678,1,10,0.1
+571,Black Cherry,1,1678,1,10,0.1
+572,Black Walnut,8,1678,8,10,0.8
+573,Black Walnut,1,1679,1,2,0.5
+574,Black Cherry,1,1679,1,2,0.5
+575,Red Oak Sp.,4,HDD1,4,19,0.210526316
+576,White Oak,1,HDD1,1,19,0.052631579
+577,Maple Sp.,1,HDD1,1,19,0.052631579
+578,Post Oak,2,HDD1,2,19,0.105263158
+579,Virginia Pine,2,HDD1,2,19,0.105263158
+580,Black Cherry,3,HDD1,3,19,0.157894737
+581,Tulip Poplar,2,HDD1,2,19,0.105263158
+582,Flowering Dogwood,3,HDD1,3,19,0.157894737
+583,Eastern Red Cedar,1,HDD1,1,19,0.052631579
+584,Flowering Dogwood,2,HDD2,2,5,0.4
+585,Southern Red Oak,1,HDD2,1,5,0.2
+586,Red Oak Sp.,1,HDD2,1,5,0.2
+587,Hickory Sp.,1,HDD2,1,5,0.2
+588,Flowering Dogwood,3,HDD3,3,13,0.230769231
+589,Eastern Red Cedar,1,HDD3,1,13,0.076923077
+590,Blackgum,3,HDD3,3,13,0.230769231
+591,Tulip Poplar,5,HDD3,5,13,0.384615385
+592,Post Oak,1,HDD3,1,13,0.076923077
+593,Southern Red Oak,1,HDD4,1,4,0.25
+594,Tulip Poplar,1,HDD4,1,4,0.25
+595,Blackgum,1,HDD4,1,4,0.25
+596,Eastern Red Cedar,1,HDD4,1,4,0.25
+597,Ailanthus,26,HDD5,26,31,0.838709677
+598,Black Cherry,2,HDD5,2,31,0.064516129
+599,Tulip Poplar,2,HDD5,2,31,0.064516129
+600,Sycamore,1,HDD5,1,31,0.032258065
+601,Tulip Poplar,1,HDD6,1,5,0.2
+602,Hickory Sp.,1,HDD6,1,5,0.2
+603,Eastern Red Cedar,1,HDD6,1,5,0.2
+604,Flowering Dogwood,2,HDD6,2,5,0.4
+605,Black Cherry,1,HDD7,2,24,0.083333333
+606,Ailanthus,19,HDD7,19,24,0.791666667
+607,Tulip Poplar,1,HDD7,1,24,0.041666667
+608,Sycamore,1,HDD7,1,24,0.041666667
+609,Black Locust,1,HDD7,1,24,0.041666667
+610,Black Cherry,1,HDD7,2,24,0.083333333
+611,Tulip Poplar,1,HDD8,1,1,1
